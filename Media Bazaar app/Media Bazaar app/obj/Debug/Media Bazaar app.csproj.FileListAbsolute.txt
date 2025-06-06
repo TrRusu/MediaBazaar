@@ -1,0 +1,613 @@
+C:\Users\tudor\Desktop\media-bazaar-g8\Media Bazaar app\Media Bazaar app\bin\Debug\Media Bazaar app.exe.config
+C:\Users\tudor\Desktop\media-bazaar-g8\Media Bazaar app\Media Bazaar app\bin\Debug\Media Bazaar app.exe
+C:\Users\tudor\Desktop\media-bazaar-g8\Media Bazaar app\Media Bazaar app\bin\Debug\Media Bazaar app.pdb
+C:\Users\tudor\Desktop\media-bazaar-g8\Media Bazaar app\Media Bazaar app\bin\Debug\Dapper.dll
+C:\Users\tudor\Desktop\media-bazaar-g8\Media Bazaar app\Media Bazaar app\bin\Debug\MySql.Data.dll
+C:\Users\tudor\Desktop\media-bazaar-g8\Media Bazaar app\Media Bazaar app\bin\Debug\Google.Protobuf.dll
+C:\Users\tudor\Desktop\media-bazaar-g8\Media Bazaar app\Media Bazaar app\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\tudor\Desktop\media-bazaar-g8\Media Bazaar app\Media Bazaar app\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\tudor\Desktop\media-bazaar-g8\Media Bazaar app\Media Bazaar app\bin\Debug\Renci.SshNet.dll
+C:\Users\tudor\Desktop\media-bazaar-g8\Media Bazaar app\Media Bazaar app\bin\Debug\Dapper.xml
+C:\Users\tudor\Desktop\media-bazaar-g8\Media Bazaar app\Media Bazaar app\bin\Debug\MySql.Data.xml
+C:\Users\tudor\Desktop\media-bazaar-g8\Media Bazaar app\Media Bazaar app\obj\Debug\Media Bazaar app.csprojAssemblyReference.cache
+C:\Users\tudor\Desktop\media-bazaar-g8\Media Bazaar app\Media Bazaar app\obj\Debug\Media_Bazaar_app.AdministrationEmployeeView.resources
+C:\Users\tudor\Desktop\media-bazaar-g8\Media Bazaar app\Media Bazaar app\obj\Debug\Media_Bazaar_app.AdministrationOverviewView.resources
+C:\Users\tudor\Desktop\media-bazaar-g8\Media Bazaar app\Media Bazaar app\obj\Debug\Media_Bazaar_app.AdministrationProductsView.resources
+C:\Users\tudor\Desktop\media-bazaar-g8\Media Bazaar app\Media Bazaar app\obj\Debug\Media_Bazaar_app.AdministrationShiftsView.resources
+C:\Users\tudor\Desktop\media-bazaar-g8\Media Bazaar app\Media Bazaar app\obj\Debug\Media_Bazaar_app.AdministrationView.resources
+C:\Users\tudor\Desktop\media-bazaar-g8\Media Bazaar app\Media Bazaar app\obj\Debug\Media_Bazaar_app.FloorScheduleView.resources
+C:\Users\tudor\Desktop\media-bazaar-g8\Media Bazaar app\Media Bazaar app\obj\Debug\Media_Bazaar_app.FloorView.resources
+C:\Users\tudor\Desktop\media-bazaar-g8\Media Bazaar app\Media Bazaar app\obj\Debug\Media_Bazaar_app.LoginView.resources
+C:\Users\tudor\Desktop\media-bazaar-g8\Media Bazaar app\Media Bazaar app\obj\Debug\Media_Bazaar_app.ManagerEmployeeGrowthView.resources
+C:\Users\tudor\Desktop\media-bazaar-g8\Media Bazaar app\Media Bazaar app\obj\Debug\Media_Bazaar_app.ManagerEmployeeStatisticsView.resources
+C:\Users\tudor\Desktop\media-bazaar-g8\Media Bazaar app\Media Bazaar app\obj\Debug\Media_Bazaar_app.ManagerSalesOverviewView.resources
+C:\Users\tudor\Desktop\media-bazaar-g8\Media Bazaar app\Media Bazaar app\obj\Debug\Media_Bazaar_app.ManagerView.resources
+C:\Users\tudor\Desktop\media-bazaar-g8\Media Bazaar app\Media Bazaar app\obj\Debug\Media_Bazaar_app.Properties.Resources.resources
+C:\Users\tudor\Desktop\media-bazaar-g8\Media Bazaar app\Media Bazaar app\obj\Debug\Media Bazaar app.csproj.GenerateResource.cache
+C:\Users\tudor\Desktop\media-bazaar-g8\Media Bazaar app\Media Bazaar app\obj\Debug\Media Bazaar app.csproj.CopyComplete
+C:\Users\tudor\Desktop\media-bazaar-g8\Media Bazaar app\Media Bazaar app\obj\Debug\Media Bazaar app.exe
+C:\Users\tudor\Desktop\media-bazaar-g8\Media Bazaar app\Media Bazaar app\obj\Debug\Media Bazaar app.pdb
+C:\Users\Rymga\Desktop\Semester 2\MBproject\Media Bazaar app\Media Bazaar app\bin\Debug\Media Bazaar app.exe.config
+C:\Users\Rymga\Desktop\Semester 2\MBproject\Media Bazaar app\Media Bazaar app\bin\Debug\Media Bazaar app.exe
+C:\Users\Rymga\Desktop\Semester 2\MBproject\Media Bazaar app\Media Bazaar app\bin\Debug\Media Bazaar app.pdb
+C:\Users\Rymga\Desktop\Semester 2\MBproject\Media Bazaar app\Media Bazaar app\bin\Debug\Dapper.dll
+C:\Users\Rymga\Desktop\Semester 2\MBproject\Media Bazaar app\Media Bazaar app\bin\Debug\Google.Protobuf.dll
+C:\Users\Rymga\Desktop\Semester 2\MBproject\Media Bazaar app\Media Bazaar app\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Rymga\Desktop\Semester 2\MBproject\Media Bazaar app\Media Bazaar app\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Rymga\Desktop\Semester 2\MBproject\Media Bazaar app\Media Bazaar app\bin\Debug\Renci.SshNet.dll
+C:\Users\Rymga\Desktop\Semester 2\MBproject\Media Bazaar app\Media Bazaar app\bin\Debug\Dapper.xml
+C:\Users\Rymga\Desktop\Semester 2\MBproject\Media Bazaar app\Media Bazaar app\bin\Debug\MySql.Data.xml
+C:\Users\Rymga\Desktop\Semester 2\MBproject\Media Bazaar app\Media Bazaar app\obj\Debug\Media Bazaar app.csprojAssemblyReference.cache
+C:\Users\Rymga\Desktop\Semester 2\MBproject\Media Bazaar app\Media Bazaar app\obj\Debug\Media_Bazaar_app.AdministrationEmployeeView.resources
+C:\Users\Rymga\Desktop\Semester 2\MBproject\Media Bazaar app\Media Bazaar app\obj\Debug\Media_Bazaar_app.AdministrationOverviewView.resources
+C:\Users\Rymga\Desktop\Semester 2\MBproject\Media Bazaar app\Media Bazaar app\obj\Debug\Media_Bazaar_app.AdministrationProductsView.resources
+C:\Users\Rymga\Desktop\Semester 2\MBproject\Media Bazaar app\Media Bazaar app\obj\Debug\Media_Bazaar_app.AdministrationShiftsView.resources
+C:\Users\Rymga\Desktop\Semester 2\MBproject\Media Bazaar app\Media Bazaar app\obj\Debug\Media_Bazaar_app.AdministrationView.resources
+C:\Users\Rymga\Desktop\Semester 2\MBproject\Media Bazaar app\Media Bazaar app\obj\Debug\Media_Bazaar_app.FloorAutomationCarView.resources
+C:\Users\Rymga\Desktop\Semester 2\MBproject\Media Bazaar app\Media Bazaar app\obj\Debug\Media_Bazaar_app.FloorEntertainmentView.resources
+C:\Users\Rymga\Desktop\Semester 2\MBproject\Media Bazaar app\Media Bazaar app\obj\Debug\Media_Bazaar_app.FloorScheduleView.resources
+C:\Users\Rymga\Desktop\Semester 2\MBproject\Media Bazaar app\Media Bazaar app\obj\Debug\Media_Bazaar_app.FloorHomeAppliancesView.resources
+C:\Users\Rymga\Desktop\Semester 2\MBproject\Media Bazaar app\Media Bazaar app\obj\Debug\Media_Bazaar_app.FloorView.resources
+C:\Users\Rymga\Desktop\Semester 2\MBproject\Media Bazaar app\Media Bazaar app\obj\Debug\Media_Bazaar_app.LoginView.resources
+C:\Users\Rymga\Desktop\Semester 2\MBproject\Media Bazaar app\Media Bazaar app\obj\Debug\Media_Bazaar_app.ManagerEmployeeGrowthView.resources
+C:\Users\Rymga\Desktop\Semester 2\MBproject\Media Bazaar app\Media Bazaar app\obj\Debug\Media_Bazaar_app.ManagerEmployeeStatisticsView.resources
+C:\Users\Rymga\Desktop\Semester 2\MBproject\Media Bazaar app\Media Bazaar app\obj\Debug\Media_Bazaar_app.ManagerSalesOverviewView.resources
+C:\Users\Rymga\Desktop\Semester 2\MBproject\Media Bazaar app\Media Bazaar app\obj\Debug\Media_Bazaar_app.ManagerView.resources
+C:\Users\Rymga\Desktop\Semester 2\MBproject\Media Bazaar app\Media Bazaar app\obj\Debug\Media_Bazaar_app.FloorMobileDevicesView.resources
+C:\Users\Rymga\Desktop\Semester 2\MBproject\Media Bazaar app\Media Bazaar app\obj\Debug\Media_Bazaar_app.Properties.Resources.resources
+C:\Users\Rymga\Desktop\Semester 2\MBproject\Media Bazaar app\Media Bazaar app\obj\Debug\Media Bazaar app.csproj.GenerateResource.cache
+C:\Users\Rymga\Desktop\Semester 2\MBproject\Media Bazaar app\Media Bazaar app\obj\Debug\Media Bazaar app.csproj.CopyComplete
+C:\Users\Rymga\Desktop\Semester 2\MBproject\Media Bazaar app\Media Bazaar app\obj\Debug\Media Bazaar app.exe
+C:\Users\Rymga\Desktop\Semester 2\MBproject\Media Bazaar app\Media Bazaar app\obj\Debug\Media Bazaar app.pdb
+C:\Users\tudor\Desktop\New folder (4)\media-bazaar-g8\Media Bazaar app\Media Bazaar app\bin\Debug\Media Bazaar app.exe.config
+C:\Users\tudor\Desktop\New folder (4)\media-bazaar-g8\Media Bazaar app\Media Bazaar app\bin\Debug\Media Bazaar app.exe
+C:\Users\tudor\Desktop\New folder (4)\media-bazaar-g8\Media Bazaar app\Media Bazaar app\bin\Debug\Media Bazaar app.pdb
+C:\Users\tudor\Desktop\New folder (4)\media-bazaar-g8\Media Bazaar app\Media Bazaar app\bin\Debug\Dapper.dll
+C:\Users\tudor\Desktop\New folder (4)\media-bazaar-g8\Media Bazaar app\Media Bazaar app\bin\Debug\MySql.Data.dll
+C:\Users\tudor\Desktop\New folder (4)\media-bazaar-g8\Media Bazaar app\Media Bazaar app\bin\Debug\Google.Protobuf.dll
+C:\Users\tudor\Desktop\New folder (4)\media-bazaar-g8\Media Bazaar app\Media Bazaar app\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\tudor\Desktop\New folder (4)\media-bazaar-g8\Media Bazaar app\Media Bazaar app\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\tudor\Desktop\New folder (4)\media-bazaar-g8\Media Bazaar app\Media Bazaar app\bin\Debug\Renci.SshNet.dll
+C:\Users\tudor\Desktop\New folder (4)\media-bazaar-g8\Media Bazaar app\Media Bazaar app\bin\Debug\Dapper.xml
+C:\Users\tudor\Desktop\New folder (4)\media-bazaar-g8\Media Bazaar app\Media Bazaar app\bin\Debug\MySql.Data.xml
+C:\Users\tudor\Desktop\New folder (4)\media-bazaar-g8\Media Bazaar app\Media Bazaar app\obj\Debug\Media Bazaar app.csprojAssemblyReference.cache
+C:\Users\tudor\Desktop\New folder (4)\media-bazaar-g8\Media Bazaar app\Media Bazaar app\obj\Debug\Media_Bazaar_app.AdministrationDeactivateView.resources
+C:\Users\tudor\Desktop\New folder (4)\media-bazaar-g8\Media Bazaar app\Media Bazaar app\obj\Debug\Media_Bazaar_app.AdministrationEmployeeView.resources
+C:\Users\tudor\Desktop\New folder (4)\media-bazaar-g8\Media Bazaar app\Media Bazaar app\obj\Debug\Media_Bazaar_app.AdministrationOverviewView.resources
+C:\Users\tudor\Desktop\New folder (4)\media-bazaar-g8\Media Bazaar app\Media Bazaar app\obj\Debug\Media_Bazaar_app.AdministrationProductsView.resources
+C:\Users\tudor\Desktop\New folder (4)\media-bazaar-g8\Media Bazaar app\Media Bazaar app\obj\Debug\Media_Bazaar_app.AdministrationShiftsView.resources
+C:\Users\tudor\Desktop\New folder (4)\media-bazaar-g8\Media Bazaar app\Media Bazaar app\obj\Debug\Media_Bazaar_app.AdministrationUpdateView.resources
+C:\Users\tudor\Desktop\New folder (4)\media-bazaar-g8\Media Bazaar app\Media Bazaar app\obj\Debug\Media_Bazaar_app.AdministrationView.resources
+C:\Users\tudor\Desktop\New folder (4)\media-bazaar-g8\Media Bazaar app\Media Bazaar app\obj\Debug\Media_Bazaar_app.FloorAutomationCarView.resources
+C:\Users\tudor\Desktop\New folder (4)\media-bazaar-g8\Media Bazaar app\Media Bazaar app\obj\Debug\Media_Bazaar_app.FloorEntertainmentView.resources
+C:\Users\tudor\Desktop\New folder (4)\media-bazaar-g8\Media Bazaar app\Media Bazaar app\obj\Debug\Media_Bazaar_app.FloorScheduleView.resources
+C:\Users\tudor\Desktop\New folder (4)\media-bazaar-g8\Media Bazaar app\Media Bazaar app\obj\Debug\Media_Bazaar_app.FloorHomeAppliancesView.resources
+C:\Users\tudor\Desktop\New folder (4)\media-bazaar-g8\Media Bazaar app\Media Bazaar app\obj\Debug\Media_Bazaar_app.FloorView.resources
+C:\Users\tudor\Desktop\New folder (4)\media-bazaar-g8\Media Bazaar app\Media Bazaar app\obj\Debug\Media_Bazaar_app.LoginView.resources
+C:\Users\tudor\Desktop\New folder (4)\media-bazaar-g8\Media Bazaar app\Media Bazaar app\obj\Debug\Media_Bazaar_app.ManagerEmployeeGrowthView.resources
+C:\Users\tudor\Desktop\New folder (4)\media-bazaar-g8\Media Bazaar app\Media Bazaar app\obj\Debug\Media_Bazaar_app.ManagerEmployeeStatisticsView.resources
+C:\Users\tudor\Desktop\New folder (4)\media-bazaar-g8\Media Bazaar app\Media Bazaar app\obj\Debug\Media_Bazaar_app.ManagerSalesOverviewView.resources
+C:\Users\tudor\Desktop\New folder (4)\media-bazaar-g8\Media Bazaar app\Media Bazaar app\obj\Debug\Media_Bazaar_app.ManagerView.resources
+C:\Users\tudor\Desktop\New folder (4)\media-bazaar-g8\Media Bazaar app\Media Bazaar app\obj\Debug\Media_Bazaar_app.FloorMobileDevicesView.resources
+C:\Users\tudor\Desktop\New folder (4)\media-bazaar-g8\Media Bazaar app\Media Bazaar app\obj\Debug\Media_Bazaar_app.Properties.Resources.resources
+C:\Users\tudor\Desktop\New folder (4)\media-bazaar-g8\Media Bazaar app\Media Bazaar app\obj\Debug\Media Bazaar app.csproj.GenerateResource.cache
+C:\Users\tudor\Desktop\New folder (4)\media-bazaar-g8\Media Bazaar app\Media Bazaar app\obj\Debug\Media Bazaar app.csproj.CopyComplete
+C:\Users\tudor\Desktop\New folder (4)\media-bazaar-g8\Media Bazaar app\Media Bazaar app\obj\Debug\Media Bazaar app.exe
+C:\Users\tudor\Desktop\New folder (4)\media-bazaar-g8\Media Bazaar app\Media Bazaar app\obj\Debug\Media Bazaar app.pdb
+C:\Users\tudor\Desktop\New folder (4)\media-bazaar-g8\Media Bazaar app\Media Bazaar app\obj\Debug\Media_Bazaar_app.Views.AdministrationActivateView.resources
+C:\Users\tudor\Desktop\New folder\media-bazaar-g8\Media Bazaar app\Media Bazaar app\obj\Debug\Media Bazaar app.csprojAssemblyReference.cache
+C:\Users\tudor\Desktop\New folder\media-bazaar-g8\Media Bazaar app\Media Bazaar app\obj\Debug\Media_Bazaar_app.AdministrationEmployeeView.resources
+C:\Users\tudor\Desktop\New folder\media-bazaar-g8\Media Bazaar app\Media Bazaar app\obj\Debug\Media_Bazaar_app.AdministrationOverviewView.resources
+C:\Users\tudor\Desktop\New folder\media-bazaar-g8\Media Bazaar app\Media Bazaar app\obj\Debug\Media_Bazaar_app.AdministrationProductsView.resources
+C:\Users\tudor\Desktop\New folder\media-bazaar-g8\Media Bazaar app\Media Bazaar app\obj\Debug\Media_Bazaar_app.AdministrationShiftsView.resources
+C:\Users\tudor\Desktop\New folder\media-bazaar-g8\Media Bazaar app\Media Bazaar app\obj\Debug\Media_Bazaar_app.AdministrationView.resources
+C:\Users\tudor\Desktop\New folder\media-bazaar-g8\Media Bazaar app\Media Bazaar app\obj\Debug\Media_Bazaar_app.FloorScheduleView.resources
+C:\Users\tudor\Desktop\New folder\media-bazaar-g8\Media Bazaar app\Media Bazaar app\obj\Debug\Media_Bazaar_app.FloorView.resources
+C:\Users\tudor\Desktop\New folder\media-bazaar-g8\Media Bazaar app\Media Bazaar app\obj\Debug\Media_Bazaar_app.LoginView.resources
+C:\Users\tudor\Desktop\New folder\media-bazaar-g8\Media Bazaar app\Media Bazaar app\obj\Debug\Media_Bazaar_app.Properties.Resources.resources
+C:\Users\tudor\Desktop\New folder\media-bazaar-g8\Media Bazaar app\Media Bazaar app\obj\Debug\Media Bazaar app.csproj.GenerateResource.cache
+C:\Users\tudor\Desktop\New folder\media-bazaar-g8\Media Bazaar app\Media Bazaar app\obj\Debug\Media Bazaar app.exe
+C:\Users\tudor\Desktop\New folder\media-bazaar-g8\Media Bazaar app\Media Bazaar app\obj\Debug\Media Bazaar app.pdb
+C:\Users\tudor\Desktop\New folder\media-bazaar-g8\Media Bazaar app\Media Bazaar app\bin\Debug\Media Bazaar app.exe.config
+C:\Users\tudor\Desktop\New folder\media-bazaar-g8\Media Bazaar app\Media Bazaar app\bin\Debug\Media Bazaar app.exe
+C:\Users\tudor\Desktop\New folder\media-bazaar-g8\Media Bazaar app\Media Bazaar app\bin\Debug\Media Bazaar app.pdb
+C:\Users\tudor\Desktop\New folder\media-bazaar-g8\Media Bazaar app\Media Bazaar app\bin\Debug\Dapper.dll
+C:\Users\tudor\Desktop\New folder\media-bazaar-g8\Media Bazaar app\Media Bazaar app\bin\Debug\MySql.Data.dll
+C:\Users\tudor\Desktop\New folder\media-bazaar-g8\Media Bazaar app\Media Bazaar app\bin\Debug\Google.Protobuf.dll
+C:\Users\tudor\Desktop\New folder\media-bazaar-g8\Media Bazaar app\Media Bazaar app\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\tudor\Desktop\New folder\media-bazaar-g8\Media Bazaar app\Media Bazaar app\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\tudor\Desktop\New folder\media-bazaar-g8\Media Bazaar app\Media Bazaar app\bin\Debug\Renci.SshNet.dll
+C:\Users\tudor\Desktop\New folder\media-bazaar-g8\Media Bazaar app\Media Bazaar app\bin\Debug\Dapper.xml
+C:\Users\tudor\Desktop\New folder\media-bazaar-g8\Media Bazaar app\Media Bazaar app\bin\Debug\MySql.Data.xml
+C:\Users\tudor\Desktop\New folder\media-bazaar-g8\Media Bazaar app\Media Bazaar app\obj\Debug\Media Bazaar app.csproj.CopyComplete
+C:\Users\tudor\Desktop\New folder (2)\media-bazaar-g8\Media Bazaar app\Media Bazaar app\bin\Debug\Media Bazaar app.exe.config
+C:\Users\tudor\Desktop\New folder (2)\media-bazaar-g8\Media Bazaar app\Media Bazaar app\bin\Debug\Media Bazaar app.exe
+C:\Users\tudor\Desktop\New folder (2)\media-bazaar-g8\Media Bazaar app\Media Bazaar app\bin\Debug\Media Bazaar app.pdb
+C:\Users\tudor\Desktop\New folder (2)\media-bazaar-g8\Media Bazaar app\Media Bazaar app\bin\Debug\Dapper.dll
+C:\Users\tudor\Desktop\New folder (2)\media-bazaar-g8\Media Bazaar app\Media Bazaar app\bin\Debug\MySql.Data.dll
+C:\Users\tudor\Desktop\New folder (2)\media-bazaar-g8\Media Bazaar app\Media Bazaar app\bin\Debug\Google.Protobuf.dll
+C:\Users\tudor\Desktop\New folder (2)\media-bazaar-g8\Media Bazaar app\Media Bazaar app\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\tudor\Desktop\New folder (2)\media-bazaar-g8\Media Bazaar app\Media Bazaar app\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\tudor\Desktop\New folder (2)\media-bazaar-g8\Media Bazaar app\Media Bazaar app\bin\Debug\Renci.SshNet.dll
+C:\Users\tudor\Desktop\New folder (2)\media-bazaar-g8\Media Bazaar app\Media Bazaar app\bin\Debug\Dapper.xml
+C:\Users\tudor\Desktop\New folder (2)\media-bazaar-g8\Media Bazaar app\Media Bazaar app\bin\Debug\MySql.Data.xml
+C:\Users\tudor\Desktop\New folder (2)\media-bazaar-g8\Media Bazaar app\Media Bazaar app\obj\Debug\Media Bazaar app.csprojAssemblyReference.cache
+C:\Users\tudor\Desktop\New folder (2)\media-bazaar-g8\Media Bazaar app\Media Bazaar app\obj\Debug\Media_Bazaar_app.AdministrationEmployeeView.resources
+C:\Users\tudor\Desktop\New folder (2)\media-bazaar-g8\Media Bazaar app\Media Bazaar app\obj\Debug\Media_Bazaar_app.AdministrationOverviewView.resources
+C:\Users\tudor\Desktop\New folder (2)\media-bazaar-g8\Media Bazaar app\Media Bazaar app\obj\Debug\Media_Bazaar_app.AdministrationProductsView.resources
+C:\Users\tudor\Desktop\New folder (2)\media-bazaar-g8\Media Bazaar app\Media Bazaar app\obj\Debug\Media_Bazaar_app.AdministrationShiftsView.resources
+C:\Users\tudor\Desktop\New folder (2)\media-bazaar-g8\Media Bazaar app\Media Bazaar app\obj\Debug\Media_Bazaar_app.AdministrationView.resources
+C:\Users\tudor\Desktop\New folder (2)\media-bazaar-g8\Media Bazaar app\Media Bazaar app\obj\Debug\Media_Bazaar_app.FloorScheduleView.resources
+C:\Users\tudor\Desktop\New folder (2)\media-bazaar-g8\Media Bazaar app\Media Bazaar app\obj\Debug\Media_Bazaar_app.FloorView.resources
+C:\Users\tudor\Desktop\New folder (2)\media-bazaar-g8\Media Bazaar app\Media Bazaar app\obj\Debug\Media_Bazaar_app.LoginView.resources
+C:\Users\tudor\Desktop\New folder (2)\media-bazaar-g8\Media Bazaar app\Media Bazaar app\obj\Debug\Media_Bazaar_app.ManagerEmployeeGrowthView.resources
+C:\Users\tudor\Desktop\New folder (2)\media-bazaar-g8\Media Bazaar app\Media Bazaar app\obj\Debug\Media_Bazaar_app.ManagerEmployeeStatisticsView.resources
+C:\Users\tudor\Desktop\New folder (2)\media-bazaar-g8\Media Bazaar app\Media Bazaar app\obj\Debug\Media_Bazaar_app.ManagerSalesOverviewView.resources
+C:\Users\tudor\Desktop\New folder (2)\media-bazaar-g8\Media Bazaar app\Media Bazaar app\obj\Debug\Media_Bazaar_app.ManagerView.resources
+C:\Users\tudor\Desktop\New folder (2)\media-bazaar-g8\Media Bazaar app\Media Bazaar app\obj\Debug\Media_Bazaar_app.Properties.Resources.resources
+C:\Users\tudor\Desktop\New folder (2)\media-bazaar-g8\Media Bazaar app\Media Bazaar app\obj\Debug\Media Bazaar app.csproj.GenerateResource.cache
+C:\Users\tudor\Desktop\New folder (2)\media-bazaar-g8\Media Bazaar app\Media Bazaar app\obj\Debug\Media Bazaar app.csproj.CopyComplete
+C:\Users\tudor\Desktop\New folder (2)\media-bazaar-g8\Media Bazaar app\Media Bazaar app\obj\Debug\Media Bazaar app.exe
+C:\Users\tudor\Desktop\New folder (2)\media-bazaar-g8\Media Bazaar app\Media Bazaar app\obj\Debug\Media Bazaar app.pdb
+C:\Users\tudor\Desktop\uni\media-bazaar-g8\Media Bazaar app\Media Bazaar app\bin\Debug\Media Bazaar app.exe.config
+C:\Users\tudor\Desktop\uni\media-bazaar-g8\Media Bazaar app\Media Bazaar app\bin\Debug\Media Bazaar app.exe
+C:\Users\tudor\Desktop\uni\media-bazaar-g8\Media Bazaar app\Media Bazaar app\bin\Debug\Media Bazaar app.pdb
+C:\Users\tudor\Desktop\uni\media-bazaar-g8\Media Bazaar app\Media Bazaar app\bin\Debug\Dapper.dll
+C:\Users\tudor\Desktop\uni\media-bazaar-g8\Media Bazaar app\Media Bazaar app\bin\Debug\MySql.Data.dll
+C:\Users\tudor\Desktop\uni\media-bazaar-g8\Media Bazaar app\Media Bazaar app\bin\Debug\Google.Protobuf.dll
+C:\Users\tudor\Desktop\uni\media-bazaar-g8\Media Bazaar app\Media Bazaar app\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\tudor\Desktop\uni\media-bazaar-g8\Media Bazaar app\Media Bazaar app\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\tudor\Desktop\uni\media-bazaar-g8\Media Bazaar app\Media Bazaar app\bin\Debug\Renci.SshNet.dll
+C:\Users\tudor\Desktop\uni\media-bazaar-g8\Media Bazaar app\Media Bazaar app\bin\Debug\Dapper.xml
+C:\Users\tudor\Desktop\uni\media-bazaar-g8\Media Bazaar app\Media Bazaar app\bin\Debug\MySql.Data.xml
+C:\Users\tudor\Desktop\uni\media-bazaar-g8\Media Bazaar app\Media Bazaar app\obj\Debug\Media Bazaar app.csprojAssemblyReference.cache
+C:\Users\tudor\Desktop\uni\media-bazaar-g8\Media Bazaar app\Media Bazaar app\obj\Debug\Media_Bazaar_app.AdministrationEmployeeView.resources
+C:\Users\tudor\Desktop\uni\media-bazaar-g8\Media Bazaar app\Media Bazaar app\obj\Debug\Media_Bazaar_app.AdministrationOverviewView.resources
+C:\Users\tudor\Desktop\uni\media-bazaar-g8\Media Bazaar app\Media Bazaar app\obj\Debug\Media_Bazaar_app.AdministrationProductsView.resources
+C:\Users\tudor\Desktop\uni\media-bazaar-g8\Media Bazaar app\Media Bazaar app\obj\Debug\Media_Bazaar_app.AdministrationShiftsView.resources
+C:\Users\tudor\Desktop\uni\media-bazaar-g8\Media Bazaar app\Media Bazaar app\obj\Debug\Media_Bazaar_app.AdministrationView.resources
+C:\Users\tudor\Desktop\uni\media-bazaar-g8\Media Bazaar app\Media Bazaar app\obj\Debug\Media_Bazaar_app.FloorScheduleView.resources
+C:\Users\tudor\Desktop\uni\media-bazaar-g8\Media Bazaar app\Media Bazaar app\obj\Debug\Media_Bazaar_app.FloorView.resources
+C:\Users\tudor\Desktop\uni\media-bazaar-g8\Media Bazaar app\Media Bazaar app\obj\Debug\Media_Bazaar_app.LoginView.resources
+C:\Users\tudor\Desktop\uni\media-bazaar-g8\Media Bazaar app\Media Bazaar app\obj\Debug\Media_Bazaar_app.Properties.Resources.resources
+C:\Users\tudor\Desktop\uni\media-bazaar-g8\Media Bazaar app\Media Bazaar app\obj\Debug\Media Bazaar app.csproj.GenerateResource.cache
+C:\Users\tudor\Desktop\uni\media-bazaar-g8\Media Bazaar app\Media Bazaar app\obj\Debug\Media Bazaar app.csproj.CopyComplete
+C:\Users\tudor\Desktop\uni\media-bazaar-g8\Media Bazaar app\Media Bazaar app\obj\Debug\Media Bazaar app.exe
+C:\Users\tudor\Desktop\uni\media-bazaar-g8\Media Bazaar app\Media Bazaar app\obj\Debug\Media Bazaar app.pdb
+C:\Users\tudor\Desktop\uni\media-bazaar-g8\Media Bazaar app\Media Bazaar app\obj\Debug\Media_Bazaar_app.Views.FloorMessages.resources
+C:\Users\tudor\Desktop\uni\media-bazaar-g8\Media Bazaar app\Media Bazaar app\obj\Debug\Media_Bazaar_app.Views.AdministrationMessages.resources
+C:\Users\Rymga\Desktop\Semester 2\MediaBazaar project\Media Bazaar app\Media Bazaar app\bin\Debug\Media Bazaar app.exe.config
+C:\Users\Rymga\Desktop\Semester 2\MediaBazaar project\Media Bazaar app\Media Bazaar app\bin\Debug\Media Bazaar app.exe
+C:\Users\Rymga\Desktop\Semester 2\MediaBazaar project\Media Bazaar app\Media Bazaar app\bin\Debug\Media Bazaar app.pdb
+C:\Users\Rymga\Desktop\Semester 2\MediaBazaar project\Media Bazaar app\Media Bazaar app\bin\Debug\Dapper.dll
+C:\Users\Rymga\Desktop\Semester 2\MediaBazaar project\Media Bazaar app\Media Bazaar app\bin\Debug\Google.Protobuf.dll
+C:\Users\Rymga\Desktop\Semester 2\MediaBazaar project\Media Bazaar app\Media Bazaar app\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Rymga\Desktop\Semester 2\MediaBazaar project\Media Bazaar app\Media Bazaar app\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Rymga\Desktop\Semester 2\MediaBazaar project\Media Bazaar app\Media Bazaar app\bin\Debug\Renci.SshNet.dll
+C:\Users\Rymga\Desktop\Semester 2\MediaBazaar project\Media Bazaar app\Media Bazaar app\bin\Debug\Dapper.xml
+C:\Users\Rymga\Desktop\Semester 2\MediaBazaar project\Media Bazaar app\Media Bazaar app\bin\Debug\MySql.Data.xml
+C:\Users\Rymga\Desktop\Semester 2\MediaBazaar project\Media Bazaar app\Media Bazaar app\obj\Debug\Media Bazaar app.csprojAssemblyReference.cache
+C:\Users\Rymga\Desktop\Semester 2\MediaBazaar project\Media Bazaar app\Media Bazaar app\obj\Debug\Media_Bazaar_app.AdministrationEmployeeView.resources
+C:\Users\Rymga\Desktop\Semester 2\MediaBazaar project\Media Bazaar app\Media Bazaar app\obj\Debug\Media_Bazaar_app.Views.AdministrationMessages.resources
+C:\Users\Rymga\Desktop\Semester 2\MediaBazaar project\Media Bazaar app\Media Bazaar app\obj\Debug\Media_Bazaar_app.AdministrationOverviewView.resources
+C:\Users\Rymga\Desktop\Semester 2\MediaBazaar project\Media Bazaar app\Media Bazaar app\obj\Debug\Media_Bazaar_app.AdministrationProductsView.resources
+C:\Users\Rymga\Desktop\Semester 2\MediaBazaar project\Media Bazaar app\Media Bazaar app\obj\Debug\Media_Bazaar_app.AdministrationShiftsView.resources
+C:\Users\Rymga\Desktop\Semester 2\MediaBazaar project\Media Bazaar app\Media Bazaar app\obj\Debug\Media_Bazaar_app.AdministrationView.resources
+C:\Users\Rymga\Desktop\Semester 2\MediaBazaar project\Media Bazaar app\Media Bazaar app\obj\Debug\Media_Bazaar_app.FloorAutomationCarView.resources
+C:\Users\Rymga\Desktop\Semester 2\MediaBazaar project\Media Bazaar app\Media Bazaar app\obj\Debug\Media_Bazaar_app.FloorEntertainmentView.resources
+C:\Users\Rymga\Desktop\Semester 2\MediaBazaar project\Media Bazaar app\Media Bazaar app\obj\Debug\Media_Bazaar_app.Views.FloorMessages.resources
+C:\Users\Rymga\Desktop\Semester 2\MediaBazaar project\Media Bazaar app\Media Bazaar app\obj\Debug\Media_Bazaar_app.FloorScheduleView.resources
+C:\Users\Rymga\Desktop\Semester 2\MediaBazaar project\Media Bazaar app\Media Bazaar app\obj\Debug\Media_Bazaar_app.FloorHomeAppliancesView.resources
+C:\Users\Rymga\Desktop\Semester 2\MediaBazaar project\Media Bazaar app\Media Bazaar app\obj\Debug\Media_Bazaar_app.FloorView.resources
+C:\Users\Rymga\Desktop\Semester 2\MediaBazaar project\Media Bazaar app\Media Bazaar app\obj\Debug\Media_Bazaar_app.LoginView.resources
+C:\Users\Rymga\Desktop\Semester 2\MediaBazaar project\Media Bazaar app\Media Bazaar app\obj\Debug\Media_Bazaar_app.ManagerEmployeeGrowthView.resources
+C:\Users\Rymga\Desktop\Semester 2\MediaBazaar project\Media Bazaar app\Media Bazaar app\obj\Debug\Media_Bazaar_app.ManagerEmployeeStatisticsView.resources
+C:\Users\Rymga\Desktop\Semester 2\MediaBazaar project\Media Bazaar app\Media Bazaar app\obj\Debug\Media_Bazaar_app.ManagerSalesOverviewView.resources
+C:\Users\Rymga\Desktop\Semester 2\MediaBazaar project\Media Bazaar app\Media Bazaar app\obj\Debug\Media_Bazaar_app.ManagerView.resources
+C:\Users\Rymga\Desktop\Semester 2\MediaBazaar project\Media Bazaar app\Media Bazaar app\obj\Debug\Media_Bazaar_app.FloorMobileDevicesView.resources
+C:\Users\Rymga\Desktop\Semester 2\MediaBazaar project\Media Bazaar app\Media Bazaar app\obj\Debug\Media_Bazaar_app.Properties.Resources.resources
+C:\Users\Rymga\Desktop\Semester 2\MediaBazaar project\Media Bazaar app\Media Bazaar app\obj\Debug\Media Bazaar app.csproj.GenerateResource.cache
+C:\Users\Rymga\Desktop\Semester 2\MediaBazaar project\Media Bazaar app\Media Bazaar app\obj\Debug\Media Bazaar app.csproj.CopyComplete
+C:\Users\Rymga\Desktop\Semester 2\MediaBazaar project\Media Bazaar app\Media Bazaar app\obj\Debug\Media Bazaar app.exe
+C:\Users\Rymga\Desktop\Semester 2\MediaBazaar project\Media Bazaar app\Media Bazaar app\obj\Debug\Media Bazaar app.pdb
+C:\Users\Rymga\Desktop\Semester 2\MediaBazaar project\Media Bazaar app\Media Bazaar app\obj\Debug\Media_Bazaar_app.ScheduleOverview.resources
+C:\Users\tudor\Desktop\New folder (2)\media-bazaar-g8\Media Bazaar app\Media Bazaar app\obj\Debug\Media_Bazaar_app.ScheduleOverview.resources
+C:\Users\tudor\Desktop\New folder (2)\media-bazaar-g8\Media Bazaar app\Media Bazaar app\obj\Debug\Media_Bazaar_app.Views.AdministrationMessages.resources
+C:\Users\tudor\Desktop\New folder (2)\media-bazaar-g8\Media Bazaar app\Media Bazaar app\obj\Debug\Media_Bazaar_app.Views.FloorMessages.resources
+C:\Users\tudor\Desktop\New folder (5)\media-bazaar-g8\Media Bazaar app\Media Bazaar app\bin\Debug\Media Bazaar app.exe.config
+C:\Users\tudor\Desktop\New folder (5)\media-bazaar-g8\Media Bazaar app\Media Bazaar app\bin\Debug\Media Bazaar app.exe
+C:\Users\tudor\Desktop\New folder (5)\media-bazaar-g8\Media Bazaar app\Media Bazaar app\bin\Debug\Media Bazaar app.pdb
+C:\Users\tudor\Desktop\New folder (5)\media-bazaar-g8\Media Bazaar app\Media Bazaar app\bin\Debug\Dapper.dll
+C:\Users\tudor\Desktop\New folder (5)\media-bazaar-g8\Media Bazaar app\Media Bazaar app\bin\Debug\MySql.Data.dll
+C:\Users\tudor\Desktop\New folder (5)\media-bazaar-g8\Media Bazaar app\Media Bazaar app\bin\Debug\Google.Protobuf.dll
+C:\Users\tudor\Desktop\New folder (5)\media-bazaar-g8\Media Bazaar app\Media Bazaar app\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\tudor\Desktop\New folder (5)\media-bazaar-g8\Media Bazaar app\Media Bazaar app\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\tudor\Desktop\New folder (5)\media-bazaar-g8\Media Bazaar app\Media Bazaar app\bin\Debug\Renci.SshNet.dll
+C:\Users\tudor\Desktop\New folder (5)\media-bazaar-g8\Media Bazaar app\Media Bazaar app\bin\Debug\Dapper.xml
+C:\Users\tudor\Desktop\New folder (5)\media-bazaar-g8\Media Bazaar app\Media Bazaar app\bin\Debug\MySql.Data.xml
+C:\Users\tudor\Desktop\New folder (5)\media-bazaar-g8\Media Bazaar app\Media Bazaar app\obj\Debug\Media Bazaar app.csprojAssemblyReference.cache
+C:\Users\tudor\Desktop\New folder (5)\media-bazaar-g8\Media Bazaar app\Media Bazaar app\obj\Debug\Media_Bazaar_app.ScheduleOverview.resources
+C:\Users\tudor\Desktop\New folder (5)\media-bazaar-g8\Media Bazaar app\Media Bazaar app\obj\Debug\Media_Bazaar_app.AdministrationEmployeeView.resources
+C:\Users\tudor\Desktop\New folder (5)\media-bazaar-g8\Media Bazaar app\Media Bazaar app\obj\Debug\Media_Bazaar_app.Views.AdministrationMessages.resources
+C:\Users\tudor\Desktop\New folder (5)\media-bazaar-g8\Media Bazaar app\Media Bazaar app\obj\Debug\Media_Bazaar_app.AdministrationOverviewView.resources
+C:\Users\tudor\Desktop\New folder (5)\media-bazaar-g8\Media Bazaar app\Media Bazaar app\obj\Debug\Media_Bazaar_app.AdministrationProductsView.resources
+C:\Users\tudor\Desktop\New folder (5)\media-bazaar-g8\Media Bazaar app\Media Bazaar app\obj\Debug\Media_Bazaar_app.AdministrationShiftsView.resources
+C:\Users\tudor\Desktop\New folder (5)\media-bazaar-g8\Media Bazaar app\Media Bazaar app\obj\Debug\Media_Bazaar_app.AdministrationView.resources
+C:\Users\tudor\Desktop\New folder (5)\media-bazaar-g8\Media Bazaar app\Media Bazaar app\obj\Debug\Media_Bazaar_app.FloorAutomationCarView.resources
+C:\Users\tudor\Desktop\New folder (5)\media-bazaar-g8\Media Bazaar app\Media Bazaar app\obj\Debug\Media_Bazaar_app.FloorEntertainmentView.resources
+C:\Users\tudor\Desktop\New folder (5)\media-bazaar-g8\Media Bazaar app\Media Bazaar app\obj\Debug\Media_Bazaar_app.Views.FloorMessages.resources
+C:\Users\tudor\Desktop\New folder (5)\media-bazaar-g8\Media Bazaar app\Media Bazaar app\obj\Debug\Media_Bazaar_app.FloorScheduleView.resources
+C:\Users\tudor\Desktop\New folder (5)\media-bazaar-g8\Media Bazaar app\Media Bazaar app\obj\Debug\Media_Bazaar_app.FloorHomeAppliancesView.resources
+C:\Users\tudor\Desktop\New folder (5)\media-bazaar-g8\Media Bazaar app\Media Bazaar app\obj\Debug\Media_Bazaar_app.FloorView.resources
+C:\Users\tudor\Desktop\New folder (5)\media-bazaar-g8\Media Bazaar app\Media Bazaar app\obj\Debug\Media_Bazaar_app.LoginView.resources
+C:\Users\tudor\Desktop\New folder (5)\media-bazaar-g8\Media Bazaar app\Media Bazaar app\obj\Debug\Media_Bazaar_app.ManagerEmployeeGrowthView.resources
+C:\Users\tudor\Desktop\New folder (5)\media-bazaar-g8\Media Bazaar app\Media Bazaar app\obj\Debug\Media_Bazaar_app.ManagerEmployeeStatisticsView.resources
+C:\Users\tudor\Desktop\New folder (5)\media-bazaar-g8\Media Bazaar app\Media Bazaar app\obj\Debug\Media_Bazaar_app.ManagerSalesOverviewView.resources
+C:\Users\tudor\Desktop\New folder (5)\media-bazaar-g8\Media Bazaar app\Media Bazaar app\obj\Debug\Media_Bazaar_app.ManagerView.resources
+C:\Users\tudor\Desktop\New folder (5)\media-bazaar-g8\Media Bazaar app\Media Bazaar app\obj\Debug\Media_Bazaar_app.FloorMobileDevicesView.resources
+C:\Users\tudor\Desktop\New folder (5)\media-bazaar-g8\Media Bazaar app\Media Bazaar app\obj\Debug\Media_Bazaar_app.Properties.Resources.resources
+C:\Users\tudor\Desktop\New folder (5)\media-bazaar-g8\Media Bazaar app\Media Bazaar app\obj\Debug\Media Bazaar app.csproj.GenerateResource.cache
+C:\Users\tudor\Desktop\New folder (5)\media-bazaar-g8\Media Bazaar app\Media Bazaar app\obj\Debug\Media Bazaar app.csproj.CopyComplete
+C:\Users\tudor\Desktop\New folder (5)\media-bazaar-g8\Media Bazaar app\Media Bazaar app\obj\Debug\Media Bazaar app.exe
+C:\Users\tudor\Desktop\New folder (5)\media-bazaar-g8\Media Bazaar app\Media Bazaar app\obj\Debug\Media Bazaar app.pdb
+C:\Users\tudor\Desktop\New folder\media-bazaar-g8\Media Bazaar app\Media Bazaar app\obj\Debug\Media_Bazaar_app.ScheduleOverview.resources
+C:\Users\tudor\Desktop\New folder\media-bazaar-g8\Media Bazaar app\Media Bazaar app\obj\Debug\Media_Bazaar_app.Views.AdministrationMessages.resources
+C:\Users\tudor\Desktop\New folder\media-bazaar-g8\Media Bazaar app\Media Bazaar app\obj\Debug\Media_Bazaar_app.Views.FloorMessages.resources
+C:\Users\tudor\Desktop\New folder\media-bazaar-g8\Media Bazaar app\Media Bazaar app\obj\Debug\Media_Bazaar_app.Views.AdministrationCreateDepartmentView.resources
+C:\Users\tudor\Desktop\newVersion\media-bazaar-g8\Media Bazaar app\Media Bazaar app\bin\Debug\Media Bazaar app.exe.config
+C:\Users\tudor\Desktop\newVersion\media-bazaar-g8\Media Bazaar app\Media Bazaar app\bin\Debug\Media Bazaar app.exe
+C:\Users\tudor\Desktop\newVersion\media-bazaar-g8\Media Bazaar app\Media Bazaar app\bin\Debug\Media Bazaar app.pdb
+C:\Users\tudor\Desktop\newVersion\media-bazaar-g8\Media Bazaar app\Media Bazaar app\bin\Debug\Dapper.dll
+C:\Users\tudor\Desktop\newVersion\media-bazaar-g8\Media Bazaar app\Media Bazaar app\bin\Debug\MySql.Data.dll
+C:\Users\tudor\Desktop\newVersion\media-bazaar-g8\Media Bazaar app\Media Bazaar app\bin\Debug\Google.Protobuf.dll
+C:\Users\tudor\Desktop\newVersion\media-bazaar-g8\Media Bazaar app\Media Bazaar app\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\tudor\Desktop\newVersion\media-bazaar-g8\Media Bazaar app\Media Bazaar app\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\tudor\Desktop\newVersion\media-bazaar-g8\Media Bazaar app\Media Bazaar app\bin\Debug\Renci.SshNet.dll
+C:\Users\tudor\Desktop\newVersion\media-bazaar-g8\Media Bazaar app\Media Bazaar app\bin\Debug\Dapper.xml
+C:\Users\tudor\Desktop\newVersion\media-bazaar-g8\Media Bazaar app\Media Bazaar app\bin\Debug\MySql.Data.xml
+C:\Users\tudor\Desktop\newVersion\media-bazaar-g8\Media Bazaar app\Media Bazaar app\obj\Debug\Media Bazaar app.csprojAssemblyReference.cache
+C:\Users\tudor\Desktop\newVersion\media-bazaar-g8\Media Bazaar app\Media Bazaar app\obj\Debug\Media_Bazaar_app.Views.AdministrationCreateDepartmentView.resources
+C:\Users\tudor\Desktop\newVersion\media-bazaar-g8\Media Bazaar app\Media Bazaar app\obj\Debug\Media_Bazaar_app.ScheduleOverview.resources
+C:\Users\tudor\Desktop\newVersion\media-bazaar-g8\Media Bazaar app\Media Bazaar app\obj\Debug\Media_Bazaar_app.AdministrationEmployeeView.resources
+C:\Users\tudor\Desktop\newVersion\media-bazaar-g8\Media Bazaar app\Media Bazaar app\obj\Debug\Media_Bazaar_app.Views.AdministrationMessages.resources
+C:\Users\tudor\Desktop\newVersion\media-bazaar-g8\Media Bazaar app\Media Bazaar app\obj\Debug\Media_Bazaar_app.AdministrationOverviewView.resources
+C:\Users\tudor\Desktop\newVersion\media-bazaar-g8\Media Bazaar app\Media Bazaar app\obj\Debug\Media_Bazaar_app.AdministrationProductsView.resources
+C:\Users\tudor\Desktop\newVersion\media-bazaar-g8\Media Bazaar app\Media Bazaar app\obj\Debug\Media_Bazaar_app.AdministrationShiftsView.resources
+C:\Users\tudor\Desktop\newVersion\media-bazaar-g8\Media Bazaar app\Media Bazaar app\obj\Debug\Media_Bazaar_app.AdministrationView.resources
+C:\Users\tudor\Desktop\newVersion\media-bazaar-g8\Media Bazaar app\Media Bazaar app\obj\Debug\Media_Bazaar_app.FloorAutomationCarView.resources
+C:\Users\tudor\Desktop\newVersion\media-bazaar-g8\Media Bazaar app\Media Bazaar app\obj\Debug\Media_Bazaar_app.FloorEntertainmentView.resources
+C:\Users\tudor\Desktop\newVersion\media-bazaar-g8\Media Bazaar app\Media Bazaar app\obj\Debug\Media_Bazaar_app.Views.FloorMessages.resources
+C:\Users\tudor\Desktop\newVersion\media-bazaar-g8\Media Bazaar app\Media Bazaar app\obj\Debug\Media_Bazaar_app.FloorScheduleView.resources
+C:\Users\tudor\Desktop\newVersion\media-bazaar-g8\Media Bazaar app\Media Bazaar app\obj\Debug\Media_Bazaar_app.FloorHomeAppliancesView.resources
+C:\Users\tudor\Desktop\newVersion\media-bazaar-g8\Media Bazaar app\Media Bazaar app\obj\Debug\Media_Bazaar_app.FloorView.resources
+C:\Users\tudor\Desktop\newVersion\media-bazaar-g8\Media Bazaar app\Media Bazaar app\obj\Debug\Media_Bazaar_app.LoginView.resources
+C:\Users\tudor\Desktop\newVersion\media-bazaar-g8\Media Bazaar app\Media Bazaar app\obj\Debug\Media_Bazaar_app.ManagerEmployeeGrowthView.resources
+C:\Users\tudor\Desktop\newVersion\media-bazaar-g8\Media Bazaar app\Media Bazaar app\obj\Debug\Media_Bazaar_app.ManagerEmployeeStatisticsView.resources
+C:\Users\tudor\Desktop\newVersion\media-bazaar-g8\Media Bazaar app\Media Bazaar app\obj\Debug\Media_Bazaar_app.ManagerSalesOverviewView.resources
+C:\Users\tudor\Desktop\newVersion\media-bazaar-g8\Media Bazaar app\Media Bazaar app\obj\Debug\Media_Bazaar_app.ManagerView.resources
+C:\Users\tudor\Desktop\newVersion\media-bazaar-g8\Media Bazaar app\Media Bazaar app\obj\Debug\Media_Bazaar_app.FloorMobileDevicesView.resources
+C:\Users\tudor\Desktop\newVersion\media-bazaar-g8\Media Bazaar app\Media Bazaar app\obj\Debug\Media_Bazaar_app.Properties.Resources.resources
+C:\Users\tudor\Desktop\newVersion\media-bazaar-g8\Media Bazaar app\Media Bazaar app\obj\Debug\Media Bazaar app.csproj.GenerateResource.cache
+C:\Users\tudor\Desktop\newVersion\media-bazaar-g8\Media Bazaar app\Media Bazaar app\obj\Debug\Media Bazaar app.csproj.CopyComplete
+C:\Users\tudor\Desktop\newVersion\media-bazaar-g8\Media Bazaar app\Media Bazaar app\obj\Debug\Media Bazaar app.exe
+C:\Users\tudor\Desktop\newVersion\media-bazaar-g8\Media Bazaar app\Media Bazaar app\obj\Debug\Media Bazaar app.pdb
+C:\Users\tudor\Desktop\media-bazaar-g8\Media Bazaar app\Media Bazaar app\obj\Debug\Media_Bazaar_app.Views.AdministrationCreateDepartmentView.resources
+C:\Users\tudor\Desktop\media-bazaar-g8\Media Bazaar app\Media Bazaar app\obj\Debug\Media_Bazaar_app.ScheduleOverview.resources
+C:\Users\tudor\Desktop\media-bazaar-g8\Media Bazaar app\Media Bazaar app\obj\Debug\Media_Bazaar_app.Views.AdministrationMessages.resources
+C:\Users\tudor\Desktop\media-bazaar-g8\Media Bazaar app\Media Bazaar app\obj\Debug\Media_Bazaar_app.Views.FloorMessages.resources
+C:\Users\tudor\Desktop\media-bazaar-g8\Media Bazaar app\Media Bazaar app\obj\Debug\Media_Bazaar_app.FloorDepartmentsView.resources
+C:\Users\tudor\Desktop\uni\media-bazaar-g8\Media Bazaar app\Media Bazaar app\obj\Debug\Media_Bazaar_app.Views.AdministrationCreateDepartmentView.resources
+C:\Users\tudor\Desktop\uni\media-bazaar-g8\Media Bazaar app\Media Bazaar app\obj\Debug\Media_Bazaar_app.ScheduleOverview.resources
+C:\Users\tudor\Desktop\uni\media-bazaar-g8\Media Bazaar app\Media Bazaar app\obj\Debug\Media_Bazaar_app.FloorDepartmentsView.resources
+C:\Users\rymga\Documents\media-bazaar-g8\Media Bazaar app\Media Bazaar app\bin\Debug\Media Bazaar app.exe.config
+C:\Users\rymga\Documents\media-bazaar-g8\Media Bazaar app\Media Bazaar app\bin\Debug\Media Bazaar app.exe
+C:\Users\rymga\Documents\media-bazaar-g8\Media Bazaar app\Media Bazaar app\bin\Debug\Media Bazaar app.pdb
+C:\Users\rymga\Documents\media-bazaar-g8\Media Bazaar app\Media Bazaar app\bin\Debug\Dapper.dll
+C:\Users\rymga\Documents\media-bazaar-g8\Media Bazaar app\Media Bazaar app\bin\Debug\Google.Protobuf.dll
+C:\Users\rymga\Documents\media-bazaar-g8\Media Bazaar app\Media Bazaar app\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\rymga\Documents\media-bazaar-g8\Media Bazaar app\Media Bazaar app\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\rymga\Documents\media-bazaar-g8\Media Bazaar app\Media Bazaar app\bin\Debug\Renci.SshNet.dll
+C:\Users\rymga\Documents\media-bazaar-g8\Media Bazaar app\Media Bazaar app\bin\Debug\Dapper.xml
+C:\Users\rymga\Documents\media-bazaar-g8\Media Bazaar app\Media Bazaar app\bin\Debug\MySql.Data.xml
+C:\Users\rymga\Documents\media-bazaar-g8\Media Bazaar app\Media Bazaar app\obj\Debug\Media Bazaar app.csprojAssemblyReference.cache
+C:\Users\rymga\Documents\media-bazaar-g8\Media Bazaar app\Media Bazaar app\obj\Debug\Media_Bazaar_app.Views.AdministrationCreateDepartmentView.resources
+C:\Users\rymga\Documents\media-bazaar-g8\Media Bazaar app\Media Bazaar app\obj\Debug\Media_Bazaar_app.ScheduleOverview.resources
+C:\Users\rymga\Documents\media-bazaar-g8\Media Bazaar app\Media Bazaar app\obj\Debug\Media_Bazaar_app.AdministrationEmployeeView.resources
+C:\Users\rymga\Documents\media-bazaar-g8\Media Bazaar app\Media Bazaar app\obj\Debug\Media_Bazaar_app.Views.AdministrationMessages.resources
+C:\Users\rymga\Documents\media-bazaar-g8\Media Bazaar app\Media Bazaar app\obj\Debug\Media_Bazaar_app.AdministrationOverviewView.resources
+C:\Users\rymga\Documents\media-bazaar-g8\Media Bazaar app\Media Bazaar app\obj\Debug\Media_Bazaar_app.AdministrationProductsView.resources
+C:\Users\rymga\Documents\media-bazaar-g8\Media Bazaar app\Media Bazaar app\obj\Debug\Media_Bazaar_app.AdministrationShiftsView.resources
+C:\Users\rymga\Documents\media-bazaar-g8\Media Bazaar app\Media Bazaar app\obj\Debug\Media_Bazaar_app.AdministrationView.resources
+C:\Users\rymga\Documents\media-bazaar-g8\Media Bazaar app\Media Bazaar app\obj\Debug\Media_Bazaar_app.Views.FloorMessages.resources
+C:\Users\rymga\Documents\media-bazaar-g8\Media Bazaar app\Media Bazaar app\obj\Debug\Media_Bazaar_app.FloorScheduleView.resources
+C:\Users\rymga\Documents\media-bazaar-g8\Media Bazaar app\Media Bazaar app\obj\Debug\Media_Bazaar_app.FloorDepartmentsView.resources
+C:\Users\rymga\Documents\media-bazaar-g8\Media Bazaar app\Media Bazaar app\obj\Debug\Media_Bazaar_app.FloorView.resources
+C:\Users\rymga\Documents\media-bazaar-g8\Media Bazaar app\Media Bazaar app\obj\Debug\Media_Bazaar_app.LoginView.resources
+C:\Users\rymga\Documents\media-bazaar-g8\Media Bazaar app\Media Bazaar app\obj\Debug\Media_Bazaar_app.ManagerEmployeeGrowthView.resources
+C:\Users\rymga\Documents\media-bazaar-g8\Media Bazaar app\Media Bazaar app\obj\Debug\Media_Bazaar_app.ManagerEmployeeStatisticsView.resources
+C:\Users\rymga\Documents\media-bazaar-g8\Media Bazaar app\Media Bazaar app\obj\Debug\Media_Bazaar_app.ManagerSalesOverviewView.resources
+C:\Users\rymga\Documents\media-bazaar-g8\Media Bazaar app\Media Bazaar app\obj\Debug\Media_Bazaar_app.ManagerView.resources
+C:\Users\rymga\Documents\media-bazaar-g8\Media Bazaar app\Media Bazaar app\obj\Debug\Media_Bazaar_app.Properties.Resources.resources
+C:\Users\rymga\Documents\media-bazaar-g8\Media Bazaar app\Media Bazaar app\obj\Debug\Media Bazaar app.csproj.GenerateResource.cache
+C:\Users\rymga\Documents\media-bazaar-g8\Media Bazaar app\Media Bazaar app\obj\Debug\Media Bazaar app.csproj.CoreCompileInputs.cache
+C:\Users\rymga\Documents\media-bazaar-g8\Media Bazaar app\Media Bazaar app\obj\Debug\Media Bazaar app.csproj.CopyComplete
+C:\Users\rymga\Documents\media-bazaar-g8\Media Bazaar app\Media Bazaar app\obj\Debug\Media Bazaar app.exe
+C:\Users\rymga\Documents\media-bazaar-g8\Media Bazaar app\Media Bazaar app\obj\Debug\Media Bazaar app.pdb
+C:\Users\Bear\Desktop\Git Projects\media-bazaar-g8\Media Bazaar app\Media Bazaar app\bin\Debug\Media Bazaar app.exe.config
+C:\Users\Bear\Desktop\Git Projects\media-bazaar-g8\Media Bazaar app\Media Bazaar app\bin\Debug\Media Bazaar app.exe
+C:\Users\Bear\Desktop\Git Projects\media-bazaar-g8\Media Bazaar app\Media Bazaar app\bin\Debug\Media Bazaar app.pdb
+C:\Users\Bear\Desktop\Git Projects\media-bazaar-g8\Media Bazaar app\Media Bazaar app\bin\Debug\Dapper.dll
+C:\Users\Bear\Desktop\Git Projects\media-bazaar-g8\Media Bazaar app\Media Bazaar app\bin\Debug\Google.Protobuf.dll
+C:\Users\Bear\Desktop\Git Projects\media-bazaar-g8\Media Bazaar app\Media Bazaar app\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Bear\Desktop\Git Projects\media-bazaar-g8\Media Bazaar app\Media Bazaar app\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Bear\Desktop\Git Projects\media-bazaar-g8\Media Bazaar app\Media Bazaar app\bin\Debug\Renci.SshNet.dll
+C:\Users\Bear\Desktop\Git Projects\media-bazaar-g8\Media Bazaar app\Media Bazaar app\bin\Debug\Dapper.xml
+C:\Users\Bear\Desktop\Git Projects\media-bazaar-g8\Media Bazaar app\Media Bazaar app\bin\Debug\MySql.Data.xml
+C:\Users\Bear\Desktop\Git Projects\media-bazaar-g8\Media Bazaar app\Media Bazaar app\obj\Debug\Media Bazaar app.csprojAssemblyReference.cache
+C:\Users\Bear\Desktop\Git Projects\media-bazaar-g8\Media Bazaar app\Media Bazaar app\obj\Debug\Media_Bazaar_app.Views.AdministrationCreateDepartmentView.resources
+C:\Users\Bear\Desktop\Git Projects\media-bazaar-g8\Media Bazaar app\Media Bazaar app\obj\Debug\Media_Bazaar_app.ScheduleOverview.resources
+C:\Users\Bear\Desktop\Git Projects\media-bazaar-g8\Media Bazaar app\Media Bazaar app\obj\Debug\Media_Bazaar_app.AdministrationEmployeeView.resources
+C:\Users\Bear\Desktop\Git Projects\media-bazaar-g8\Media Bazaar app\Media Bazaar app\obj\Debug\Media_Bazaar_app.Views.AdministrationMessages.resources
+C:\Users\Bear\Desktop\Git Projects\media-bazaar-g8\Media Bazaar app\Media Bazaar app\obj\Debug\Media_Bazaar_app.AdministrationOverviewView.resources
+C:\Users\Bear\Desktop\Git Projects\media-bazaar-g8\Media Bazaar app\Media Bazaar app\obj\Debug\Media_Bazaar_app.AdministrationProductsView.resources
+C:\Users\Bear\Desktop\Git Projects\media-bazaar-g8\Media Bazaar app\Media Bazaar app\obj\Debug\Media_Bazaar_app.AdministrationShiftsView.resources
+C:\Users\Bear\Desktop\Git Projects\media-bazaar-g8\Media Bazaar app\Media Bazaar app\obj\Debug\Media_Bazaar_app.AdministrationView.resources
+C:\Users\Bear\Desktop\Git Projects\media-bazaar-g8\Media Bazaar app\Media Bazaar app\obj\Debug\Media_Bazaar_app.Views.FloorMessages.resources
+C:\Users\Bear\Desktop\Git Projects\media-bazaar-g8\Media Bazaar app\Media Bazaar app\obj\Debug\Media_Bazaar_app.FloorScheduleView.resources
+C:\Users\Bear\Desktop\Git Projects\media-bazaar-g8\Media Bazaar app\Media Bazaar app\obj\Debug\Media_Bazaar_app.FloorDepartmentsView.resources
+C:\Users\Bear\Desktop\Git Projects\media-bazaar-g8\Media Bazaar app\Media Bazaar app\obj\Debug\Media_Bazaar_app.FloorView.resources
+C:\Users\Bear\Desktop\Git Projects\media-bazaar-g8\Media Bazaar app\Media Bazaar app\obj\Debug\Media_Bazaar_app.LoginView.resources
+C:\Users\Bear\Desktop\Git Projects\media-bazaar-g8\Media Bazaar app\Media Bazaar app\obj\Debug\Media_Bazaar_app.ManagerEmployeeGrowthView.resources
+C:\Users\Bear\Desktop\Git Projects\media-bazaar-g8\Media Bazaar app\Media Bazaar app\obj\Debug\Media_Bazaar_app.ManagerEmployeeStatisticsView.resources
+C:\Users\Bear\Desktop\Git Projects\media-bazaar-g8\Media Bazaar app\Media Bazaar app\obj\Debug\Media_Bazaar_app.ManagerSalesOverviewView.resources
+C:\Users\Bear\Desktop\Git Projects\media-bazaar-g8\Media Bazaar app\Media Bazaar app\obj\Debug\Media_Bazaar_app.ManagerView.resources
+C:\Users\Bear\Desktop\Git Projects\media-bazaar-g8\Media Bazaar app\Media Bazaar app\obj\Debug\Media_Bazaar_app.Properties.Resources.resources
+C:\Users\Bear\Desktop\Git Projects\media-bazaar-g8\Media Bazaar app\Media Bazaar app\obj\Debug\Media Bazaar app.csproj.GenerateResource.cache
+C:\Users\Bear\Desktop\Git Projects\media-bazaar-g8\Media Bazaar app\Media Bazaar app\obj\Debug\Media Bazaar app.csproj.CoreCompileInputs.cache
+C:\Users\Bear\Desktop\Git Projects\media-bazaar-g8\Media Bazaar app\Media Bazaar app\obj\Debug\Media Bazaar app.csproj.CopyComplete
+C:\Users\Bear\Desktop\Git Projects\media-bazaar-g8\Media Bazaar app\Media Bazaar app\obj\Debug\Media Bazaar app.exe
+C:\Users\Bear\Desktop\Git Projects\media-bazaar-g8\Media Bazaar app\Media Bazaar app\obj\Debug\Media Bazaar app.pdb
+C:\Users\tudor\Desktop\New folder\media-bazaar-g8\Media Bazaar app\Media Bazaar app\obj\Debug\Media_Bazaar_app.FloorDepartmentsView.resources
+C:\Users\tudor\Desktop\New folder\media-bazaar-g8\Media Bazaar app\Media Bazaar app\obj\Debug\Media_Bazaar_app.Views.FloorCashierView.resources
+C:\Users\Bear\Desktop\media-bazaar-g8\Media Bazaar app\Media Bazaar app\bin\Debug\Media Bazaar app.exe.config
+C:\Users\Bear\Desktop\media-bazaar-g8\Media Bazaar app\Media Bazaar app\bin\Debug\Media Bazaar app.exe
+C:\Users\Bear\Desktop\media-bazaar-g8\Media Bazaar app\Media Bazaar app\bin\Debug\Media Bazaar app.pdb
+C:\Users\Bear\Desktop\media-bazaar-g8\Media Bazaar app\Media Bazaar app\bin\Debug\Dapper.dll
+C:\Users\Bear\Desktop\media-bazaar-g8\Media Bazaar app\Media Bazaar app\bin\Debug\Google.Protobuf.dll
+C:\Users\Bear\Desktop\media-bazaar-g8\Media Bazaar app\Media Bazaar app\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Bear\Desktop\media-bazaar-g8\Media Bazaar app\Media Bazaar app\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Bear\Desktop\media-bazaar-g8\Media Bazaar app\Media Bazaar app\bin\Debug\Renci.SshNet.dll
+C:\Users\Bear\Desktop\media-bazaar-g8\Media Bazaar app\Media Bazaar app\bin\Debug\Dapper.xml
+C:\Users\Bear\Desktop\media-bazaar-g8\Media Bazaar app\Media Bazaar app\bin\Debug\MySql.Data.xml
+C:\Users\Bear\Desktop\media-bazaar-g8\Media Bazaar app\Media Bazaar app\obj\Debug\Media Bazaar app.csprojAssemblyReference.cache
+C:\Users\Bear\Desktop\media-bazaar-g8\Media Bazaar app\Media Bazaar app\obj\Debug\Media_Bazaar_app.Views.AdministrationCreateDepartmentView.resources
+C:\Users\Bear\Desktop\media-bazaar-g8\Media Bazaar app\Media Bazaar app\obj\Debug\Media_Bazaar_app.Views.FloorCashierView.resources
+C:\Users\Bear\Desktop\media-bazaar-g8\Media Bazaar app\Media Bazaar app\obj\Debug\Media_Bazaar_app.ScheduleOverview.resources
+C:\Users\Bear\Desktop\media-bazaar-g8\Media Bazaar app\Media Bazaar app\obj\Debug\Media_Bazaar_app.AdministrationEmployeeView.resources
+C:\Users\Bear\Desktop\media-bazaar-g8\Media Bazaar app\Media Bazaar app\obj\Debug\Media_Bazaar_app.Views.AdministrationMessages.resources
+C:\Users\Bear\Desktop\media-bazaar-g8\Media Bazaar app\Media Bazaar app\obj\Debug\Media_Bazaar_app.AdministrationOverviewView.resources
+C:\Users\Bear\Desktop\media-bazaar-g8\Media Bazaar app\Media Bazaar app\obj\Debug\Media_Bazaar_app.AdministrationProductsView.resources
+C:\Users\Bear\Desktop\media-bazaar-g8\Media Bazaar app\Media Bazaar app\obj\Debug\Media_Bazaar_app.AdministrationShiftsView.resources
+C:\Users\Bear\Desktop\media-bazaar-g8\Media Bazaar app\Media Bazaar app\obj\Debug\Media_Bazaar_app.AdministrationView.resources
+C:\Users\Bear\Desktop\media-bazaar-g8\Media Bazaar app\Media Bazaar app\obj\Debug\Media_Bazaar_app.Views.FloorMessages.resources
+C:\Users\Bear\Desktop\media-bazaar-g8\Media Bazaar app\Media Bazaar app\obj\Debug\Media_Bazaar_app.FloorScheduleView.resources
+C:\Users\Bear\Desktop\media-bazaar-g8\Media Bazaar app\Media Bazaar app\obj\Debug\Media_Bazaar_app.FloorDepartmentsView.resources
+C:\Users\Bear\Desktop\media-bazaar-g8\Media Bazaar app\Media Bazaar app\obj\Debug\Media_Bazaar_app.FloorView.resources
+C:\Users\Bear\Desktop\media-bazaar-g8\Media Bazaar app\Media Bazaar app\obj\Debug\Media_Bazaar_app.LoginView.resources
+C:\Users\Bear\Desktop\media-bazaar-g8\Media Bazaar app\Media Bazaar app\obj\Debug\Media_Bazaar_app.ManagerEmployeeGrowthView.resources
+C:\Users\Bear\Desktop\media-bazaar-g8\Media Bazaar app\Media Bazaar app\obj\Debug\Media_Bazaar_app.ManagerEmployeeStatisticsView.resources
+C:\Users\Bear\Desktop\media-bazaar-g8\Media Bazaar app\Media Bazaar app\obj\Debug\Media_Bazaar_app.ManagerSalesOverviewView.resources
+C:\Users\Bear\Desktop\media-bazaar-g8\Media Bazaar app\Media Bazaar app\obj\Debug\Media_Bazaar_app.ManagerView.resources
+C:\Users\Bear\Desktop\media-bazaar-g8\Media Bazaar app\Media Bazaar app\obj\Debug\Media_Bazaar_app.Properties.Resources.resources
+C:\Users\Bear\Desktop\media-bazaar-g8\Media Bazaar app\Media Bazaar app\obj\Debug\Media Bazaar app.csproj.GenerateResource.cache
+C:\Users\Bear\Desktop\media-bazaar-g8\Media Bazaar app\Media Bazaar app\obj\Debug\Media Bazaar app.csproj.CoreCompileInputs.cache
+C:\Users\Bear\Desktop\media-bazaar-g8\Media Bazaar app\Media Bazaar app\obj\Debug\Media Bazaar app.csproj.CopyComplete
+C:\Users\Bear\Desktop\media-bazaar-g8\Media Bazaar app\Media Bazaar app\obj\Debug\Media Bazaar app.exe
+C:\Users\Bear\Desktop\media-bazaar-g8\Media Bazaar app\Media Bazaar app\obj\Debug\Media Bazaar app.pdb
+C:\Users\ivona\Desktop\Media Bazaar app\Media Bazaar app\obj\Debug\Media Bazaar app.csprojAssemblyReference.cache
+C:\Users\ivona\Desktop\Media Bazaar app\Media Bazaar app\obj\Debug\Media_Bazaar_app.Views.AdministrationCreateDepartmentView.resources
+C:\Users\ivona\Desktop\Media Bazaar app\Media Bazaar app\obj\Debug\Media_Bazaar_app.Views.FloorCashierView.resources
+C:\Users\ivona\Desktop\Media Bazaar app\Media Bazaar app\obj\Debug\Media_Bazaar_app.ScheduleOverview.resources
+C:\Users\ivona\Desktop\Media Bazaar app\Media Bazaar app\obj\Debug\Media_Bazaar_app.AdministrationEmployeeView.resources
+C:\Users\ivona\Desktop\Media Bazaar app\Media Bazaar app\obj\Debug\Media_Bazaar_app.Views.AdministrationMessages.resources
+C:\Users\ivona\Desktop\Media Bazaar app\Media Bazaar app\obj\Debug\Media_Bazaar_app.AdministrationOverviewView.resources
+C:\Users\ivona\Desktop\Media Bazaar app\Media Bazaar app\obj\Debug\Media_Bazaar_app.AdministrationProductsView.resources
+C:\Users\ivona\Desktop\Media Bazaar app\Media Bazaar app\obj\Debug\Media_Bazaar_app.AdministrationShiftsView.resources
+C:\Users\ivona\Desktop\Media Bazaar app\Media Bazaar app\obj\Debug\Media_Bazaar_app.AdministrationView.resources
+C:\Users\ivona\Desktop\Media Bazaar app\Media Bazaar app\obj\Debug\Media_Bazaar_app.Views.FloorMessages.resources
+C:\Users\ivona\Desktop\Media Bazaar app\Media Bazaar app\obj\Debug\Media_Bazaar_app.FloorScheduleView.resources
+C:\Users\ivona\Desktop\Media Bazaar app\Media Bazaar app\obj\Debug\Media_Bazaar_app.FloorDepartmentsView.resources
+C:\Users\ivona\Desktop\Media Bazaar app\Media Bazaar app\obj\Debug\Media_Bazaar_app.FloorView.resources
+C:\Users\ivona\Desktop\Media Bazaar app\Media Bazaar app\obj\Debug\Media_Bazaar_app.LoginView.resources
+C:\Users\ivona\Desktop\Media Bazaar app\Media Bazaar app\obj\Debug\Media_Bazaar_app.ManagerEmployeeGrowthView.resources
+C:\Users\ivona\Desktop\Media Bazaar app\Media Bazaar app\obj\Debug\Media_Bazaar_app.ManagerEmployeeStatisticsView.resources
+C:\Users\ivona\Desktop\Media Bazaar app\Media Bazaar app\obj\Debug\Media_Bazaar_app.ManagerSalesOverviewView.resources
+C:\Users\ivona\Desktop\Media Bazaar app\Media Bazaar app\obj\Debug\Media_Bazaar_app.ManagerView.resources
+C:\Users\ivona\Desktop\Media Bazaar app\Media Bazaar app\obj\Debug\Media_Bazaar_app.Properties.Resources.resources
+C:\Users\ivona\Desktop\Media Bazaar app\Media Bazaar app\obj\Debug\Media Bazaar app.csproj.GenerateResource.cache
+C:\Users\ivona\Desktop\Media Bazaar app\Media Bazaar app\obj\Debug\Media Bazaar app.exe
+C:\Users\ivona\Desktop\Media Bazaar app\Media Bazaar app\obj\Debug\Media Bazaar app.pdb
+C:\Users\ivona\Desktop\Media Bazaar app\Media Bazaar app\bin\Debug\Media Bazaar app.exe.config
+C:\Users\ivona\Desktop\Media Bazaar app\Media Bazaar app\bin\Debug\Media Bazaar app.exe
+C:\Users\ivona\Desktop\Media Bazaar app\Media Bazaar app\bin\Debug\Media Bazaar app.pdb
+C:\Users\ivona\Desktop\Media Bazaar app\Media Bazaar app\bin\Debug\Dapper.dll
+C:\Users\ivona\Desktop\Media Bazaar app\Media Bazaar app\bin\Debug\Google.Protobuf.dll
+C:\Users\ivona\Desktop\Media Bazaar app\Media Bazaar app\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\ivona\Desktop\Media Bazaar app\Media Bazaar app\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\ivona\Desktop\Media Bazaar app\Media Bazaar app\bin\Debug\Renci.SshNet.dll
+C:\Users\ivona\Desktop\Media Bazaar app\Media Bazaar app\bin\Debug\Dapper.xml
+C:\Users\ivona\Desktop\Media Bazaar app\Media Bazaar app\bin\Debug\MySql.Data.xml
+C:\Users\ivona\Desktop\Media Bazaar app\Media Bazaar app\obj\Debug\Media Bazaar app.csproj.CopyComplete
+C:\Users\tudor\Desktop\New folder (2)\media-bazaar-g8\Media Bazaar app\Media Bazaar app\obj\Debug\Media_Bazaar_app.Views.AdministrationCreateDepartmentView.resources
+C:\Users\tudor\Desktop\New folder (2)\media-bazaar-g8\Media Bazaar app\Media Bazaar app\obj\Debug\Media_Bazaar_app.Views.FloorCashierView.resources
+C:\Users\tudor\Desktop\New folder (2)\media-bazaar-g8\Media Bazaar app\Media Bazaar app\obj\Debug\Media_Bazaar_app.FloorDepartmentsView.resources
+C:\Users\tudor\Desktop\New folder\New folder (2)\media-bazaar-g8\Media Bazaar app\Media Bazaar app\bin\Debug\Media Bazaar app.exe.config
+C:\Users\tudor\Desktop\New folder\New folder (2)\media-bazaar-g8\Media Bazaar app\Media Bazaar app\bin\Debug\Media Bazaar app.exe
+C:\Users\tudor\Desktop\New folder\New folder (2)\media-bazaar-g8\Media Bazaar app\Media Bazaar app\bin\Debug\Media Bazaar app.pdb
+C:\Users\tudor\Desktop\New folder\New folder (2)\media-bazaar-g8\Media Bazaar app\Media Bazaar app\bin\Debug\Dapper.dll
+C:\Users\tudor\Desktop\New folder\New folder (2)\media-bazaar-g8\Media Bazaar app\Media Bazaar app\bin\Debug\MySql.Data.dll
+C:\Users\tudor\Desktop\New folder\New folder (2)\media-bazaar-g8\Media Bazaar app\Media Bazaar app\bin\Debug\Google.Protobuf.dll
+C:\Users\tudor\Desktop\New folder\New folder (2)\media-bazaar-g8\Media Bazaar app\Media Bazaar app\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\tudor\Desktop\New folder\New folder (2)\media-bazaar-g8\Media Bazaar app\Media Bazaar app\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\tudor\Desktop\New folder\New folder (2)\media-bazaar-g8\Media Bazaar app\Media Bazaar app\bin\Debug\Renci.SshNet.dll
+C:\Users\tudor\Desktop\New folder\New folder (2)\media-bazaar-g8\Media Bazaar app\Media Bazaar app\bin\Debug\Dapper.xml
+C:\Users\tudor\Desktop\New folder\New folder (2)\media-bazaar-g8\Media Bazaar app\Media Bazaar app\bin\Debug\MySql.Data.xml
+C:\Users\tudor\Desktop\New folder\New folder (2)\media-bazaar-g8\Media Bazaar app\Media Bazaar app\obj\Debug\Media Bazaar app.csprojAssemblyReference.cache
+C:\Users\tudor\Desktop\New folder\New folder (2)\media-bazaar-g8\Media Bazaar app\Media Bazaar app\obj\Debug\Media_Bazaar_app.Views.AdministrationCreateDepartmentView.resources
+C:\Users\tudor\Desktop\New folder\New folder (2)\media-bazaar-g8\Media Bazaar app\Media Bazaar app\obj\Debug\Media_Bazaar_app.Views.FloorCashierView.resources
+C:\Users\tudor\Desktop\New folder\New folder (2)\media-bazaar-g8\Media Bazaar app\Media Bazaar app\obj\Debug\Media_Bazaar_app.ScheduleOverview.resources
+C:\Users\tudor\Desktop\New folder\New folder (2)\media-bazaar-g8\Media Bazaar app\Media Bazaar app\obj\Debug\Media_Bazaar_app.AdministrationEmployeeView.resources
+C:\Users\tudor\Desktop\New folder\New folder (2)\media-bazaar-g8\Media Bazaar app\Media Bazaar app\obj\Debug\Media_Bazaar_app.Views.AdministrationMessages.resources
+C:\Users\tudor\Desktop\New folder\New folder (2)\media-bazaar-g8\Media Bazaar app\Media Bazaar app\obj\Debug\Media_Bazaar_app.AdministrationOverviewView.resources
+C:\Users\tudor\Desktop\New folder\New folder (2)\media-bazaar-g8\Media Bazaar app\Media Bazaar app\obj\Debug\Media_Bazaar_app.AdministrationProductsView.resources
+C:\Users\tudor\Desktop\New folder\New folder (2)\media-bazaar-g8\Media Bazaar app\Media Bazaar app\obj\Debug\Media_Bazaar_app.AdministrationShiftsView.resources
+C:\Users\tudor\Desktop\New folder\New folder (2)\media-bazaar-g8\Media Bazaar app\Media Bazaar app\obj\Debug\Media_Bazaar_app.AdministrationView.resources
+C:\Users\tudor\Desktop\New folder\New folder (2)\media-bazaar-g8\Media Bazaar app\Media Bazaar app\obj\Debug\Media_Bazaar_app.Views.FloorMessages.resources
+C:\Users\tudor\Desktop\New folder\New folder (2)\media-bazaar-g8\Media Bazaar app\Media Bazaar app\obj\Debug\Media_Bazaar_app.FloorScheduleView.resources
+C:\Users\tudor\Desktop\New folder\New folder (2)\media-bazaar-g8\Media Bazaar app\Media Bazaar app\obj\Debug\Media_Bazaar_app.FloorDepartmentsView.resources
+C:\Users\tudor\Desktop\New folder\New folder (2)\media-bazaar-g8\Media Bazaar app\Media Bazaar app\obj\Debug\Media_Bazaar_app.FloorView.resources
+C:\Users\tudor\Desktop\New folder\New folder (2)\media-bazaar-g8\Media Bazaar app\Media Bazaar app\obj\Debug\Media_Bazaar_app.LoginView.resources
+C:\Users\tudor\Desktop\New folder\New folder (2)\media-bazaar-g8\Media Bazaar app\Media Bazaar app\obj\Debug\Media_Bazaar_app.ManagerEmployeeGrowthView.resources
+C:\Users\tudor\Desktop\New folder\New folder (2)\media-bazaar-g8\Media Bazaar app\Media Bazaar app\obj\Debug\Media_Bazaar_app.ManagerEmployeeStatisticsView.resources
+C:\Users\tudor\Desktop\New folder\New folder (2)\media-bazaar-g8\Media Bazaar app\Media Bazaar app\obj\Debug\Media_Bazaar_app.ManagerSalesOverviewView.resources
+C:\Users\tudor\Desktop\New folder\New folder (2)\media-bazaar-g8\Media Bazaar app\Media Bazaar app\obj\Debug\Media_Bazaar_app.ManagerView.resources
+C:\Users\tudor\Desktop\New folder\New folder (2)\media-bazaar-g8\Media Bazaar app\Media Bazaar app\obj\Debug\Media_Bazaar_app.Properties.Resources.resources
+C:\Users\tudor\Desktop\New folder\New folder (2)\media-bazaar-g8\Media Bazaar app\Media Bazaar app\obj\Debug\Media Bazaar app.csproj.GenerateResource.cache
+C:\Users\tudor\Desktop\New folder\New folder (2)\media-bazaar-g8\Media Bazaar app\Media Bazaar app\obj\Debug\Media Bazaar app.csproj.CopyComplete
+C:\Users\tudor\Desktop\New folder\New folder (2)\media-bazaar-g8\Media Bazaar app\Media Bazaar app\obj\Debug\Media Bazaar app.exe
+C:\Users\tudor\Desktop\New folder\New folder (2)\media-bazaar-g8\Media Bazaar app\Media Bazaar app\obj\Debug\Media Bazaar app.pdb
+C:\Users\tudor\Desktop\calendar working\New folder (2)\media-bazaar-g8\Media Bazaar app\Media Bazaar app\bin\Debug\Media Bazaar app.exe.config
+C:\Users\tudor\Desktop\calendar working\New folder (2)\media-bazaar-g8\Media Bazaar app\Media Bazaar app\bin\Debug\Media Bazaar app.exe
+C:\Users\tudor\Desktop\calendar working\New folder (2)\media-bazaar-g8\Media Bazaar app\Media Bazaar app\bin\Debug\Media Bazaar app.pdb
+C:\Users\tudor\Desktop\calendar working\New folder (2)\media-bazaar-g8\Media Bazaar app\Media Bazaar app\bin\Debug\Dapper.dll
+C:\Users\tudor\Desktop\calendar working\New folder (2)\media-bazaar-g8\Media Bazaar app\Media Bazaar app\bin\Debug\MySql.Data.dll
+C:\Users\tudor\Desktop\calendar working\New folder (2)\media-bazaar-g8\Media Bazaar app\Media Bazaar app\bin\Debug\Google.Protobuf.dll
+C:\Users\tudor\Desktop\calendar working\New folder (2)\media-bazaar-g8\Media Bazaar app\Media Bazaar app\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\tudor\Desktop\calendar working\New folder (2)\media-bazaar-g8\Media Bazaar app\Media Bazaar app\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\tudor\Desktop\calendar working\New folder (2)\media-bazaar-g8\Media Bazaar app\Media Bazaar app\bin\Debug\Renci.SshNet.dll
+C:\Users\tudor\Desktop\calendar working\New folder (2)\media-bazaar-g8\Media Bazaar app\Media Bazaar app\bin\Debug\Dapper.xml
+C:\Users\tudor\Desktop\calendar working\New folder (2)\media-bazaar-g8\Media Bazaar app\Media Bazaar app\bin\Debug\MySql.Data.xml
+C:\Users\tudor\Desktop\calendar working\New folder (2)\media-bazaar-g8\Media Bazaar app\Media Bazaar app\obj\Debug\Media Bazaar app.csprojAssemblyReference.cache
+C:\Users\tudor\Desktop\calendar working\New folder (2)\media-bazaar-g8\Media Bazaar app\Media Bazaar app\obj\Debug\Media_Bazaar_app.Views.AdministrationCreateDepartmentView.resources
+C:\Users\tudor\Desktop\calendar working\New folder (2)\media-bazaar-g8\Media Bazaar app\Media Bazaar app\obj\Debug\Media_Bazaar_app.Views.FloorCashierView.resources
+C:\Users\tudor\Desktop\calendar working\New folder (2)\media-bazaar-g8\Media Bazaar app\Media Bazaar app\obj\Debug\Media_Bazaar_app.ScheduleOverview.resources
+C:\Users\tudor\Desktop\calendar working\New folder (2)\media-bazaar-g8\Media Bazaar app\Media Bazaar app\obj\Debug\Media_Bazaar_app.AdministrationEmployeeView.resources
+C:\Users\tudor\Desktop\calendar working\New folder (2)\media-bazaar-g8\Media Bazaar app\Media Bazaar app\obj\Debug\Media_Bazaar_app.Views.AdministrationMessages.resources
+C:\Users\tudor\Desktop\calendar working\New folder (2)\media-bazaar-g8\Media Bazaar app\Media Bazaar app\obj\Debug\Media_Bazaar_app.AdministrationOverviewView.resources
+C:\Users\tudor\Desktop\calendar working\New folder (2)\media-bazaar-g8\Media Bazaar app\Media Bazaar app\obj\Debug\Media_Bazaar_app.AdministrationProductsView.resources
+C:\Users\tudor\Desktop\calendar working\New folder (2)\media-bazaar-g8\Media Bazaar app\Media Bazaar app\obj\Debug\Media_Bazaar_app.AdministrationShiftsView.resources
+C:\Users\tudor\Desktop\calendar working\New folder (2)\media-bazaar-g8\Media Bazaar app\Media Bazaar app\obj\Debug\Media_Bazaar_app.AdministrationView.resources
+C:\Users\tudor\Desktop\calendar working\New folder (2)\media-bazaar-g8\Media Bazaar app\Media Bazaar app\obj\Debug\Media_Bazaar_app.Views.FloorMessages.resources
+C:\Users\tudor\Desktop\calendar working\New folder (2)\media-bazaar-g8\Media Bazaar app\Media Bazaar app\obj\Debug\Media_Bazaar_app.FloorScheduleView.resources
+C:\Users\tudor\Desktop\calendar working\New folder (2)\media-bazaar-g8\Media Bazaar app\Media Bazaar app\obj\Debug\Media_Bazaar_app.FloorDepartmentsView.resources
+C:\Users\tudor\Desktop\calendar working\New folder (2)\media-bazaar-g8\Media Bazaar app\Media Bazaar app\obj\Debug\Media_Bazaar_app.FloorView.resources
+C:\Users\tudor\Desktop\calendar working\New folder (2)\media-bazaar-g8\Media Bazaar app\Media Bazaar app\obj\Debug\Media_Bazaar_app.LoginView.resources
+C:\Users\tudor\Desktop\calendar working\New folder (2)\media-bazaar-g8\Media Bazaar app\Media Bazaar app\obj\Debug\Media_Bazaar_app.ManagerEmployeeGrowthView.resources
+C:\Users\tudor\Desktop\calendar working\New folder (2)\media-bazaar-g8\Media Bazaar app\Media Bazaar app\obj\Debug\Media_Bazaar_app.ManagerEmployeeStatisticsView.resources
+C:\Users\tudor\Desktop\calendar working\New folder (2)\media-bazaar-g8\Media Bazaar app\Media Bazaar app\obj\Debug\Media_Bazaar_app.ManagerSalesOverviewView.resources
+C:\Users\tudor\Desktop\calendar working\New folder (2)\media-bazaar-g8\Media Bazaar app\Media Bazaar app\obj\Debug\Media_Bazaar_app.ManagerView.resources
+C:\Users\tudor\Desktop\calendar working\New folder (2)\media-bazaar-g8\Media Bazaar app\Media Bazaar app\obj\Debug\Media_Bazaar_app.Properties.Resources.resources
+C:\Users\tudor\Desktop\calendar working\New folder (2)\media-bazaar-g8\Media Bazaar app\Media Bazaar app\obj\Debug\Media Bazaar app.csproj.GenerateResource.cache
+C:\Users\tudor\Desktop\calendar working\New folder (2)\media-bazaar-g8\Media Bazaar app\Media Bazaar app\obj\Debug\Media Bazaar app.csproj.CopyComplete
+C:\Users\tudor\Desktop\calendar working\New folder (2)\media-bazaar-g8\Media Bazaar app\Media Bazaar app\obj\Debug\Media Bazaar app.exe
+C:\Users\tudor\Desktop\calendar working\New folder (2)\media-bazaar-g8\Media Bazaar app\Media Bazaar app\obj\Debug\Media Bazaar app.pdb
+C:\Users\ivona\Desktop\Media Bazaar app\Media Bazaar app\obj\Debug\Media_Bazaar_app.Views.AdministrationVacationRequestView.resources
+C:\Users\tudor\Desktop\uni\media-bazaar-g8\Media Bazaar app\Media Bazaar app\obj\Debug\Media_Bazaar_app.Views.AdministrationVacationRequestView.resources
+C:\Users\tudor\Desktop\uni\media-bazaar-g8\Media Bazaar app\Media Bazaar app\obj\Debug\Media_Bazaar_app.Views.FloorCashierView.resources
+C:\Users\tudor\Desktop\saved app - Copy\Media Bazaar app\Media Bazaar app\obj\Debug\Media Bazaar app.csprojAssemblyReference.cache
+C:\Users\tudor\Desktop\saved app - Copy\Media Bazaar app\Media Bazaar app\obj\Debug\Media_Bazaar_app.Views.AdministrationCreateDepartmentView.resources
+C:\Users\tudor\Desktop\saved app - Copy\Media Bazaar app\Media Bazaar app\obj\Debug\Media_Bazaar_app.Views.AdministrationVacationRequestView.resources
+C:\Users\tudor\Desktop\saved app - Copy\Media Bazaar app\Media Bazaar app\obj\Debug\Media_Bazaar_app.Views.FloorCashierView.resources
+C:\Users\tudor\Desktop\saved app - Copy\Media Bazaar app\Media Bazaar app\obj\Debug\Media_Bazaar_app.ScheduleOverview.resources
+C:\Users\tudor\Desktop\saved app - Copy\Media Bazaar app\Media Bazaar app\obj\Debug\Media_Bazaar_app.AdministrationEmployeeView.resources
+C:\Users\tudor\Desktop\saved app - Copy\Media Bazaar app\Media Bazaar app\obj\Debug\Media_Bazaar_app.Views.AdministrationMessages.resources
+C:\Users\tudor\Desktop\saved app - Copy\Media Bazaar app\Media Bazaar app\obj\Debug\Media_Bazaar_app.AdministrationOverviewView.resources
+C:\Users\tudor\Desktop\saved app - Copy\Media Bazaar app\Media Bazaar app\obj\Debug\Media_Bazaar_app.AdministrationProductsView.resources
+C:\Users\tudor\Desktop\saved app - Copy\Media Bazaar app\Media Bazaar app\obj\Debug\Media_Bazaar_app.AdministrationShiftsView.resources
+C:\Users\tudor\Desktop\saved app - Copy\Media Bazaar app\Media Bazaar app\obj\Debug\Media_Bazaar_app.AdministrationView.resources
+C:\Users\tudor\Desktop\saved app - Copy\Media Bazaar app\Media Bazaar app\obj\Debug\Media_Bazaar_app.Views.FloorMessages.resources
+C:\Users\tudor\Desktop\saved app - Copy\Media Bazaar app\Media Bazaar app\obj\Debug\Media_Bazaar_app.FloorScheduleView.resources
+C:\Users\tudor\Desktop\saved app - Copy\Media Bazaar app\Media Bazaar app\obj\Debug\Media_Bazaar_app.FloorDepartmentsView.resources
+C:\Users\tudor\Desktop\saved app - Copy\Media Bazaar app\Media Bazaar app\obj\Debug\Media_Bazaar_app.FloorView.resources
+C:\Users\tudor\Desktop\saved app - Copy\Media Bazaar app\Media Bazaar app\obj\Debug\Media_Bazaar_app.LoginView.resources
+C:\Users\tudor\Desktop\saved app - Copy\Media Bazaar app\Media Bazaar app\obj\Debug\Media_Bazaar_app.Properties.Resources.resources
+C:\Users\tudor\Desktop\saved app - Copy\Media Bazaar app\Media Bazaar app\obj\Debug\Media Bazaar app.csproj.GenerateResource.cache
+C:\Users\tudor\Desktop\saved app - Copy\Media Bazaar app\Media Bazaar app\obj\Debug\Media Bazaar app.exe
+C:\Users\tudor\Desktop\saved app - Copy\Media Bazaar app\Media Bazaar app\obj\Debug\Media Bazaar app.pdb
+C:\Users\tudor\Desktop\saved app - Copy\Media Bazaar app\Media Bazaar app\bin\Debug\Media Bazaar app.exe.config
+C:\Users\tudor\Desktop\saved app - Copy\Media Bazaar app\Media Bazaar app\bin\Debug\Media Bazaar app.exe
+C:\Users\tudor\Desktop\saved app - Copy\Media Bazaar app\Media Bazaar app\bin\Debug\Media Bazaar app.pdb
+C:\Users\tudor\Desktop\saved app - Copy\Media Bazaar app\Media Bazaar app\bin\Debug\Dapper.dll
+C:\Users\tudor\Desktop\saved app - Copy\Media Bazaar app\Media Bazaar app\bin\Debug\MySql.Data.dll
+C:\Users\tudor\Desktop\saved app - Copy\Media Bazaar app\Media Bazaar app\bin\Debug\Google.Protobuf.dll
+C:\Users\tudor\Desktop\saved app - Copy\Media Bazaar app\Media Bazaar app\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\tudor\Desktop\saved app - Copy\Media Bazaar app\Media Bazaar app\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\tudor\Desktop\saved app - Copy\Media Bazaar app\Media Bazaar app\bin\Debug\Renci.SshNet.dll
+C:\Users\tudor\Desktop\saved app - Copy\Media Bazaar app\Media Bazaar app\bin\Debug\Dapper.xml
+C:\Users\tudor\Desktop\saved app - Copy\Media Bazaar app\Media Bazaar app\bin\Debug\MySql.Data.xml
+C:\Users\tudor\Desktop\saved app - Copy\Media Bazaar app\Media Bazaar app\obj\Debug\Media Bazaar app.csproj.CopyComplete
+C:\Users\ivona\Desktop\git\media-bazaar-g8\Media Bazaar app\Media Bazaar app\bin\Debug\Media Bazaar app.exe.config
+C:\Users\ivona\Desktop\git\media-bazaar-g8\Media Bazaar app\Media Bazaar app\bin\Debug\Media Bazaar app.exe
+C:\Users\ivona\Desktop\git\media-bazaar-g8\Media Bazaar app\Media Bazaar app\bin\Debug\Media Bazaar app.pdb
+C:\Users\ivona\Desktop\git\media-bazaar-g8\Media Bazaar app\Media Bazaar app\bin\Debug\Dapper.dll
+C:\Users\ivona\Desktop\git\media-bazaar-g8\Media Bazaar app\Media Bazaar app\bin\Debug\Google.Protobuf.dll
+C:\Users\ivona\Desktop\git\media-bazaar-g8\Media Bazaar app\Media Bazaar app\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\ivona\Desktop\git\media-bazaar-g8\Media Bazaar app\Media Bazaar app\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\ivona\Desktop\git\media-bazaar-g8\Media Bazaar app\Media Bazaar app\bin\Debug\Renci.SshNet.dll
+C:\Users\ivona\Desktop\git\media-bazaar-g8\Media Bazaar app\Media Bazaar app\bin\Debug\Dapper.xml
+C:\Users\ivona\Desktop\git\media-bazaar-g8\Media Bazaar app\Media Bazaar app\bin\Debug\MySql.Data.xml
+C:\Users\ivona\Desktop\git\media-bazaar-g8\Media Bazaar app\Media Bazaar app\obj\Debug\Media Bazaar app.csprojAssemblyReference.cache
+C:\Users\ivona\Desktop\git\media-bazaar-g8\Media Bazaar app\Media Bazaar app\obj\Debug\Media_Bazaar_app.Views.AdministrationCreateDepartmentView.resources
+C:\Users\ivona\Desktop\git\media-bazaar-g8\Media Bazaar app\Media Bazaar app\obj\Debug\Media_Bazaar_app.Views.AdministrationVacationRequestView.resources
+C:\Users\ivona\Desktop\git\media-bazaar-g8\Media Bazaar app\Media Bazaar app\obj\Debug\Media_Bazaar_app.Views.FloorCashierView.resources
+C:\Users\ivona\Desktop\git\media-bazaar-g8\Media Bazaar app\Media Bazaar app\obj\Debug\Media_Bazaar_app.ScheduleOverview.resources
+C:\Users\ivona\Desktop\git\media-bazaar-g8\Media Bazaar app\Media Bazaar app\obj\Debug\Media_Bazaar_app.AdministrationEmployeeView.resources
+C:\Users\ivona\Desktop\git\media-bazaar-g8\Media Bazaar app\Media Bazaar app\obj\Debug\Media_Bazaar_app.Views.AdministrationMessages.resources
+C:\Users\ivona\Desktop\git\media-bazaar-g8\Media Bazaar app\Media Bazaar app\obj\Debug\Media_Bazaar_app.AdministrationOverviewView.resources
+C:\Users\ivona\Desktop\git\media-bazaar-g8\Media Bazaar app\Media Bazaar app\obj\Debug\Media_Bazaar_app.AdministrationProductsView.resources
+C:\Users\ivona\Desktop\git\media-bazaar-g8\Media Bazaar app\Media Bazaar app\obj\Debug\Media_Bazaar_app.AdministrationShiftsView.resources
+C:\Users\ivona\Desktop\git\media-bazaar-g8\Media Bazaar app\Media Bazaar app\obj\Debug\Media_Bazaar_app.AdministrationView.resources
+C:\Users\ivona\Desktop\git\media-bazaar-g8\Media Bazaar app\Media Bazaar app\obj\Debug\Media_Bazaar_app.Views.FloorMessages.resources
+C:\Users\ivona\Desktop\git\media-bazaar-g8\Media Bazaar app\Media Bazaar app\obj\Debug\Media_Bazaar_app.FloorScheduleView.resources
+C:\Users\ivona\Desktop\git\media-bazaar-g8\Media Bazaar app\Media Bazaar app\obj\Debug\Media_Bazaar_app.FloorDepartmentsView.resources
+C:\Users\ivona\Desktop\git\media-bazaar-g8\Media Bazaar app\Media Bazaar app\obj\Debug\Media_Bazaar_app.FloorView.resources
+C:\Users\ivona\Desktop\git\media-bazaar-g8\Media Bazaar app\Media Bazaar app\obj\Debug\Media_Bazaar_app.LoginView.resources
+C:\Users\ivona\Desktop\git\media-bazaar-g8\Media Bazaar app\Media Bazaar app\obj\Debug\Media_Bazaar_app.Properties.Resources.resources
+C:\Users\ivona\Desktop\git\media-bazaar-g8\Media Bazaar app\Media Bazaar app\obj\Debug\Media Bazaar app.csproj.GenerateResource.cache
+C:\Users\ivona\Desktop\git\media-bazaar-g8\Media Bazaar app\Media Bazaar app\obj\Debug\Media Bazaar app.csproj.CopyComplete
+C:\Users\ivona\Desktop\git\media-bazaar-g8\Media Bazaar app\Media Bazaar app\obj\Debug\Media Bazaar app.exe
+C:\Users\ivona\Desktop\git\media-bazaar-g8\Media Bazaar app\Media Bazaar app\obj\Debug\Media Bazaar app.pdb
+C:\Users\tudor\Desktop\New folder\media-bazaar-g8\Media Bazaar app\Media Bazaar app\obj\Debug\Media_Bazaar_app.Views.AdministrationVacationRequestView.resources
+C:\Users\Relu\media-bazaar-g8\Media Bazaar app\Media Bazaar app\bin\Debug\Media Bazaar app.exe.config
+C:\Users\Relu\media-bazaar-g8\Media Bazaar app\Media Bazaar app\bin\Debug\Media Bazaar app.exe
+C:\Users\Relu\media-bazaar-g8\Media Bazaar app\Media Bazaar app\bin\Debug\Media Bazaar app.pdb
+C:\Users\Relu\media-bazaar-g8\Media Bazaar app\Media Bazaar app\bin\Debug\Dapper.dll
+C:\Users\Relu\media-bazaar-g8\Media Bazaar app\Media Bazaar app\bin\Debug\Google.Protobuf.dll
+C:\Users\Relu\media-bazaar-g8\Media Bazaar app\Media Bazaar app\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Relu\media-bazaar-g8\Media Bazaar app\Media Bazaar app\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Relu\media-bazaar-g8\Media Bazaar app\Media Bazaar app\bin\Debug\Renci.SshNet.dll
+C:\Users\Relu\media-bazaar-g8\Media Bazaar app\Media Bazaar app\bin\Debug\Dapper.xml
+C:\Users\Relu\media-bazaar-g8\Media Bazaar app\Media Bazaar app\bin\Debug\MySql.Data.xml
+C:\Users\Relu\media-bazaar-g8\Media Bazaar app\Media Bazaar app\obj\Debug\Media Bazaar app.csproj.AssemblyReference.cache
+C:\Users\Relu\media-bazaar-g8\Media Bazaar app\Media Bazaar app\obj\Debug\Media Bazaar app.exe.config
+C:\Users\Relu\media-bazaar-g8\Media Bazaar app\Media Bazaar app\obj\Debug\Media_Bazaar_app.Views.AdministrationCreateDepartmentView.resources
+C:\Users\Relu\media-bazaar-g8\Media Bazaar app\Media Bazaar app\obj\Debug\Media_Bazaar_app.Views.AdministrationVacationRequestView.resources
+C:\Users\Relu\media-bazaar-g8\Media Bazaar app\Media Bazaar app\obj\Debug\Media_Bazaar_app.Views.FloorCashierView.resources
+C:\Users\Relu\media-bazaar-g8\Media Bazaar app\Media Bazaar app\obj\Debug\Media_Bazaar_app.ScheduleOverview.resources
+C:\Users\Relu\media-bazaar-g8\Media Bazaar app\Media Bazaar app\obj\Debug\Media_Bazaar_app.AdministrationEmployeeView.resources
+C:\Users\Relu\media-bazaar-g8\Media Bazaar app\Media Bazaar app\obj\Debug\Media_Bazaar_app.Views.AdministrationMessages.resources
+C:\Users\Relu\media-bazaar-g8\Media Bazaar app\Media Bazaar app\obj\Debug\Media_Bazaar_app.AdministrationOverviewView.resources
+C:\Users\Relu\media-bazaar-g8\Media Bazaar app\Media Bazaar app\obj\Debug\Media_Bazaar_app.AdministrationProductsView.resources
+C:\Users\Relu\media-bazaar-g8\Media Bazaar app\Media Bazaar app\obj\Debug\Media_Bazaar_app.AdministrationShiftsView.resources
+C:\Users\Relu\media-bazaar-g8\Media Bazaar app\Media Bazaar app\obj\Debug\Media_Bazaar_app.AdministrationView.resources
+C:\Users\Relu\media-bazaar-g8\Media Bazaar app\Media Bazaar app\obj\Debug\Media_Bazaar_app.Views.FloorMessages.resources
+C:\Users\Relu\media-bazaar-g8\Media Bazaar app\Media Bazaar app\obj\Debug\Media_Bazaar_app.FloorScheduleView.resources
+C:\Users\Relu\media-bazaar-g8\Media Bazaar app\Media Bazaar app\obj\Debug\Media_Bazaar_app.FloorDepartmentsView.resources
+C:\Users\Relu\media-bazaar-g8\Media Bazaar app\Media Bazaar app\obj\Debug\Media_Bazaar_app.FloorView.resources
+C:\Users\Relu\media-bazaar-g8\Media Bazaar app\Media Bazaar app\obj\Debug\Media_Bazaar_app.LoginView.resources
+C:\Users\Relu\media-bazaar-g8\Media Bazaar app\Media Bazaar app\obj\Debug\Media_Bazaar_app.Properties.Resources.resources
+C:\Users\Relu\media-bazaar-g8\Media Bazaar app\Media Bazaar app\obj\Debug\Media Bazaar app.csproj.GenerateResource.cache
+C:\Users\Relu\media-bazaar-g8\Media Bazaar app\Media Bazaar app\obj\Debug\Media Bazaar app.csproj.CoreCompileInputs.cache
+C:\Users\Relu\media-bazaar-g8\Media Bazaar app\Media Bazaar app\obj\Debug\Media Ba.BD3F10DC.Up2Date
+C:\Users\Relu\media-bazaar-g8\Media Bazaar app\Media Bazaar app\obj\Debug\Media Bazaar app.exe
+C:\Users\Relu\media-bazaar-g8\Media Bazaar app\Media Bazaar app\obj\Debug\Media Bazaar app.pdb

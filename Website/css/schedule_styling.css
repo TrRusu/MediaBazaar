@@ -1,0 +1,297 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+@media screen and (max-width: 15000px) {
+
+    body{
+        background-color:#292930;
+    }
+
+    .wrapper {
+        display: grid;
+        grid-template-ROWS: 219px auto 8px;
+        width: 100%;
+    }
+
+    .header {
+        grid-row: 1;
+        display: block;
+        background-attachment: fixed;
+        background-color: rgb(233, 59, 59);
+        background-repeat: no-repeat;
+        background-size: 100% auto;
+        height: 70%;
+    }
+
+    
+    .fc-button{
+        border-radius: 0px;
+    }
+    
+    .header ul{
+        margin-top: 30px;
+        display: flex;
+        flex-direction: row;
+        justify-content: space-evenly;
+        list-style-type: none; 
+    }
+
+    h2{
+        font-size: 75px;
+    }
+
+    p{
+        color: rgb(233, 59, 59);
+        font-size: 30px;
+        text-align: center;
+    }
+
+    #calendar{
+        position: relative;
+        /* top: 20rem; */
+        margin-right: 4em;
+        font-size: 40px;
+        margin-left: 4em;
+    }
+
+    .fc-day-number, .fc-week-number, .fc-left{
+        color: white;
+    }
+
+    .fc-center{
+        margin-left: 215px;
+    }
+
+    .fc-highlight{
+        background-color: rgb(233, 59, 59) ;
+    }
+    .fc-today{
+        background-color: rgb(233, 59, 59) ;
+    }
+
+    .fc-content{
+        font-size: 40px;
+    }
+
+    .fc-unthemed td.fc-today {
+        background: rgb(128, 0, 0);
+    }
+    .fc-button-group {
+        color:  rgb(233, 59, 59) ;
+    }
+    a {
+        text-decoration: none;
+        font-weight: bold;
+        font-size: larger;
+        color: #f3f3f3;
+        font-family: 'Century Gothic';
+        transition: 0.5s;
+        font-size: 60px;
+    }
+
+    a:hover{
+        text-decoration: none;
+        color: #f3f3f3;
+    }
+
+    .fc-day-header{
+        color: white;
+    }
+
+    button {
+        border-radius: 20px;
+        border: 1px solid #e2c6c6;
+        background: #ffffff;
+        color: black;
+        font-size: 45px;
+        font-weight: bold;
+        font-family: 'Century Gothic';
+        padding: 1px 54px;
+        letter-spacing: 0.5px;
+        text-transform: uppercase;
+        transition: transform 80ms ease-in;
+    }
+
+}
+
+@media only screen and (max-width: 1920px) {
+
+    #calendar{
+        position: relative;
+        top: -3rem;
+        margin-right: 4em;
+        font-size: 20px;
+        margin-left: 4em;
+    }
+
+    a, button{
+        font-size: 26px;
+    }
+
+    .header{
+    height: 40%;
+    }
+
+    h2{
+        font-size: 30px;
+    }
+
+    p{
+        position: relative;
+        top: -6rem;
+        font-size: 20px;
+    }
+
+    .fc-content{
+        font-size: 20px;
+    }
+
+}
+
+@media only screen and (max-width: 900px) {
+
+    a{
+        position: relative;
+        font-size: 1rem;
+    }
+
+    button{
+        position: relative;
+        font-size: 0.5rem;
+        padding: 1px 20px;
+    }
+
+    .header{
+        height: 14%;
+    }
+
+    .header ul {
+        margin-top: 3px;
+    }
+
+    #calendar {
+        position: relative;
+        /* top: 20rem; */
+        font-size: 10px;
+    }
+
+    p{
+        font-size: 10px;
+        top: -8rem;
+    }
+
+    .fc-content {
+        font-size: 0.5rem;
+        
+    }
+
+    h2{
+        font-size: 21px;
+    }
+
+}
+
+/* The Modal (background) */
+.modal {
+    display: none; /* Hidden by default */
+    position: fixed; /* Stay in place */
+    z-index: 1; /* Sit on top */
+    left: 0;
+    top: 0;
+    width: 100%; /* Full width */
+    height: 100%; /* Full height */
+    overflow: auto; /* Enable scroll if needed */
+    background-color: rgb(0,0,0); /* Fallback color */
+    background-color: rgba(0,0,0,0.4); /* Black w/ opacity */
+    -webkit-animation-name: fadeIn; /* Fade in the background */
+    -webkit-animation-duration: 0.4s;
+    animation-name: fadeIn;
+    animation-duration: 0.4s
+  }
+
+  .submit{
+    border-radius: 20px;
+    border: 1px solid #e2c6c6;
+    background: rgb(233, 59, 59);
+    color: black;
+    font-size: 20px;
+    font-weight: bold;
+    font-family: 'Century Gothic';
+    padding: 1px 54px;
+    letter-spacing: 0.5px;
+    text-transform: uppercase;
+    transition: transform 80ms ease-in;
+  }
+
+  .submit:hover{
+    background: rgb(199, 50, 50);
+  }
+  
+  /* Modal Content */
+  .modal-content {
+    position: fixed;
+    bottom: 50%;
+    left: 35%;
+    background-color: #292930;
+    width: 30%;
+    -webkit-animation-name: slideIn;
+    -webkit-animation-duration: 0.4s;
+    animation-name: slideIn;
+    animation-duration: 0.4s
+  }
+  
+  /* The Close Button */
+  .close {
+    color: white;
+    float: right;
+    font-size: 28px;
+    font-weight: bold;
+  }
+  
+  .close:hover,
+  .close:focus {
+    color: #000;
+    text-decoration: none;
+    cursor: pointer;
+  }
+  
+  .modal-header {
+    padding: 2px 16px;
+    background-color: rgb(233, 59, 59);
+    color: wheat;
+  }
+  
+  .modal-body {
+      font-family: 'Century Gothic';
+      padding: 3px 16px;
+      text-align: center;
+      color: wheat;
+    }
+
+  .option{
+      font-size: 20px;
+      padding-right: 20px;
+  }
+  
+  /* Add Animation */
+  @-webkit-keyframes slideIn {
+    from {bottom: -300px; opacity: 0} 
+    to {bottom: 480px; opacity: 1}
+  }
+  
+  @keyframes slideIn {
+    from {bottom: -300px; opacity: 0}
+    to {bottom: 480px; opacity: 1}
+  }
+  
+  @-webkit-keyframes fadeIn {
+    from {opacity: 0} 
+    to {opacity: 1}
+  }
+  
+  @keyframes fadeIn {
+    from {opacity: 0} 
+    to {opacity: 1}
+  }

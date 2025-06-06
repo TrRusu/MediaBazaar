@@ -1,0 +1,285 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+@media screen and (max-width: 15000px) {
+    body{
+        background-color: #292930;
+    }
+
+    .wrapper {
+        display: grid;
+        grid-template-ROWS: 219px auto 8px;
+        width: 100%;
+        height: 96.2%;
+    }
+
+    .header {
+        grid-row: 1;
+        display: block;
+        background-attachment: fixed;
+        background-color: rgb(233, 59, 59);
+        background-repeat: no-repeat;
+        background-size: 100% auto;
+        height: 70%;
+    }
+    .header ul {
+        margin-top: 30px;
+        display: flex;
+        flex-direction: row;
+        justify-content: space-evenly;
+        list-style-type: none;
+    }
+
+    .text{
+        font-size: 44px;
+    }
+
+    input {
+        font-family: sans-serif;
+        font-size: 63px;
+        width: 68%;
+        background: lavenderblush;
+        height: 90px;
+        border-radius: 20px;
+        padding: 2px 0px 0 1px;
+        border-color: salmon;
+    }
+
+    .split {
+        height: 78%;
+        width: 35%;
+        position: absolute;
+        z-index: 1;
+        top: 20%;
+        overflow-x: hidden;
+        padding-top: 20px;
+        font-size: 4.2em;
+        font-family: 'Century Gothic', sans-serif;
+      }
+
+      .left {
+        left: 4%;
+        top: 9.5%;
+        padding: 50px;
+      }
+
+      .right {
+        right: 1%;
+        top: 9.5%;
+        padding: 50px;
+      }
+    
+
+    .content {
+        grid-row: 2;
+        flex: auto;
+        /* margin: auto auto;
+        border: 1px solid white; */
+        flex-direction: row;
+    }
+
+    h4, h5, h6{
+        color: wheat;
+        font-family: 'Century Gothic', sans-serif;
+        font-size: 4rem;
+        /* text-decoration: red underline; */
+        padding-top: 4px;
+        border-bottom: solid red;
+        margin-right: 112px;
+        padding-left: 23px;
+    }
+
+    p{
+        color: wheat;
+        padding-top: 1%;
+    }
+
+    .footer {
+        /* grid-row: 3; */
+        height: 90px;
+        background-color: rgb(233, 59, 59);
+        color: whitesmoke;
+        text-align: center;
+        /* font-size: 38px; */
+    }
+
+    a {
+        text-decoration: none;
+        font-weight: bold;
+        font-size: larger;
+        color: #f3f3f3;
+        font-family: 'Century Gothic';
+        font-size: 60px;
+    }
+    button {
+        border-radius: 20px;
+        border: 1px solid #e2c6c6;
+        background: #ffffff;
+        color: black;
+        font-size: 45px;
+        font-weight: bold;
+        font-family: 'Century Gothic';
+        padding: 1px 54px;
+        letter-spacing: 0.5px;
+        text-transform: uppercase;
+        transition: transform 80ms ease-in;
+    }
+
+
+    button span {
+        display: block;
+        padding: 8px 22px;
+    }
+
+    button.save {
+        border-radius: 10px;
+        border: 1px solid #911010;
+        background: red;
+        color: #fff;
+        font-size: 51px;
+        font-weight: bold;
+        font-family: 'Century Gothic';
+        padding: 12px 45px;
+        margin-top: 20px;
+        letter-spacing: 0.5px;
+        text-transform: uppercase;
+        transition: transform 80ms ease-in;
+    }
+    .save:active {
+        transform: scale(0.95);
+    }
+    .save:focus {
+        outline: none;
+    }
+
+
+}
+
+@media only screen and (max-width: 1920px) {
+
+    #calendar{
+        position: relative;
+        /* top: 20rem; */
+        margin-right: 4em;
+        font-size: 20px;
+        margin-left: 4em;
+    }
+
+    a, button{
+        font-size: 26px;
+    }
+
+    .header{
+        height: 40%;
+    }
+
+    h2{
+        font-size: 30px;
+    }
+
+    .split{
+        font-size: 2.1em;
+    }
+
+    input{
+        font-size: 1.5rem;
+        height: 5%;
+        border-radius: 12px;
+    }
+
+    h4,h5,h6{
+        color: wheat;
+        font-size: 2rem;
+    }
+
+    p{
+        color: wheat;
+        font-size: 1.5rem;
+    }
+
+    button.save{
+        font-size: 1rem;
+    }
+
+    .text {
+        font-size: 1.2rem;
+    }
+
+    .footer{
+        height: 45px;
+    }
+
+
+}
+
+@media only screen and (max-width: 900px) {
+
+    a{
+        position: relative;
+        font-size: 1rem;
+    }
+
+    button{
+        position: relative;
+        font-size: 0.5rem;
+        padding: 1px 20px;
+    }
+
+    .header{
+        height: 14%;
+    }
+
+    .header ul {
+        margin-top: 5px;
+    }
+
+    h4, h5, h6 {
+        color: wheat;
+        font-size: 1.2rem;
+        margin-right: 0;
+        padding-left: 0;
+    }
+
+    p{
+        font-size: 1rem;
+    }
+    
+    .text{
+        font-size: 1rem;
+    }
+
+    input{
+        font-size: 0.7rem;
+        height: 4%;
+        border-radius: 4px;
+    }
+
+    button.save{
+        font-size: 0.6rem;    
+        padding: 4px 35px;
+    }
+
+    .right {
+        right: 1%;
+        top: 14.5%;
+        padding: 30px;
+    }
+
+    .left {
+        left: 1%;
+        top: 14.5%;
+        padding: 30px;
+    }
+
+    .split{
+        height: auto;
+    }
+
+    .footer {
+        height: 31px;
+    }
+
+
+}
